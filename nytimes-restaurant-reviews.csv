@@ -1,0 +1,589 @@
+name,restaurant_quality,restaurant_price,extra_info,nytimes_critics_pick,cuisine,lon,lat,location,yelp_review_count,yelp_rating,delivers
+Eleven Madison Park,EXTRAORDINARY,VERY_EXPENSIVE,NYT Critic’s Pick4 starNew American$$$$Midtown South,TRUE,New American,-73.9872376,40.7416173,Midtown South,2180,4.5,FALSE
+Jean-Georges,EXTRAORDINARY,VERY_EXPENSIVE,NYT Critic’s Pick4 starFrench$$$$Upper West Side,TRUE,French,-73.9815796,40.7690576,Upper West Side,1880,4.5,TRUE
+Le Bernardin,EXTRAORDINARY,VERY_EXPENSIVE,NYT Critic’s Pick4 starFrench$$$$Midtown,TRUE,French,-73.98180479999999,40.7615691,Midtown,2536,4.5,FALSE
+Misi,EXCELLENT,MODERATE,NYT Critic’s Pick3 starItalian$$Williamsburg,TRUE,Italian,-73.9671564,40.71338859999999,Williamsburg,304,4,FALSE
+JuneBaby,EXCELLENT,MODERATE,NYT Critic’s Pick3 starSouthern$$Ravenna,TRUE,Southern,-122.304181,47.675966,Ravenna,NA,NA,FALSE
+Razza,EXCELLENT,MODERATE,NYT Critic’s Pick3 starPizza$$,TRUE,Pizza,-74.044225,40.717761,NA,851,4,TRUE
+Guan Fu Sichuan,EXCELLENT,MODERATE,NYT Critic’s Pick3 starChinese$$Flushing,TRUE,Chinese,-73.832538,40.7592508,Flushing,204,4,TRUE
+Bad Saint,EXCELLENT,MODERATE,NYT Critic’s Pick3 starPhilippine$$Washington D.C.,TRUE,Philippine,-77.0280506,38.9302671,Washington D.C.,68,4,TRUE
+Casa Mono,EXCELLENT,MODERATE,NYT Critic’s Pick3 starSpanish$$Gramercy Park,TRUE,Spanish,-73.9871361,40.7358936,Gramercy Park,1221,3.5,FALSE
+Llama San,EXCELLENT,EXPENSIVE,"NYT Critic’s Pick3 starJapanese, Latin American$$$Greenwich Village",TRUE,"Japanese, Latin American",-74.00082789999999,40.7322744,Greenwich Village,112,4,FALSE
+Rezdôra,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starItalian$$$Flatiron district,TRUE,Italian,-73.98904399999999,40.739083,Flatiron district,194,4,FALSE
+701West,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starAmerican$$$Times Square,TRUE,American,-73.984144,40.75927009999999,Times Square,23,4.5,FALSE
+Frenchette,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starFrench$$$TriBeCa,TRUE,French,-74.0057546,40.7196654,TriBeCa,240,3.5,FALSE
+Momofuku Ssam Bar,EXCELLENT,EXPENSIVE,"NYT Critic’s Pick3 starAmerican, Korean, Southeast Asian$$$East Village",TRUE,"American, Korean, Southeast Asian",-73.98571179999999,40.731665,East Village,2439,4,FALSE
+Empellón,EXCELLENT,EXPENSIVE,"NYT Critic’s Pick3 starAmerican, Mexican$$$Midtown",TRUE,"American, Mexican",-73.9747222,40.7597222,Midtown,361,4,TRUE
+Torishin,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starJapanese$$$Clinton,TRUE,Japanese,-73.987167,40.7650392,Clinton,292,4,FALSE
+Cassia,EXCELLENT,EXPENSIVE,"NYT Critic’s Pick3 starAsian, Vietnamese$$$Santa Monica, Calif.",TRUE,"Asian, Vietnamese",-77.3441529,42.95719260000001,"Santa Monica, Calif.",NA,NA,FALSE
+Lilia,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starItalian$$$Williamsburg,TRUE,Italian,-73.9524225,40.7175365,Williamsburg,792,4,FALSE
+Cosme,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starModernist$$$Flatiron,TRUE,Modernist,-73.98835640000001,40.7395952,Flatiron,1055,3.5,TRUE
+Blue Hill,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starNew American$$$Greenwich Village,TRUE,New American,-73.9996685,40.7320465,Greenwich Village,999,4.5,FALSE
+Bâtard,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starModernist$$$TriBeCa,TRUE,Modernist,-74.0057489,40.7195598,TriBeCa,405,4,FALSE
+Il Buco Alimentari e Vineria,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starItalian$$$NoHo,TRUE,Italian,-73.99254359999999,40.7264749,NoHo,537,3.5,FALSE
+Corton,EXCELLENT,EXPENSIVE,"NYT Critic’s Pick3 starFrench, New American$$$TriBeCa",TRUE,"French, New American",-74.01202099999999,40.786535,TriBeCa,405,4,FALSE
+Scarpetta,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starItalian$$$Chelsea,TRUE,Italian,-73.9857838,40.7444392,Chelsea,1904,4,FALSE
+Esca,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starItalian$$$Clinton,TRUE,Italian,-73.9927134,40.7591997,Clinton,716,3,FALSE
+Bar Room at the Modern,EXCELLENT,EXPENSIVE,NYT Critic’s Pick3 starNew American$$$Midtown East,TRUE,New American,-73.976753,40.761081,Midtown East,497,4,FALSE
+Felidia,EXCELLENT,EXPENSIVE,3 starItalian$$$Midtown East,FALSE,Italian,-73.96511319999999,40.7603663,Midtown East,567,4,TRUE
+Perry St.,EXCELLENT,EXPENSIVE,"3 starAsian, French$$$West Village",FALSE,"Asian, French",-74.0055024,40.7352188,West Village,936,4,FALSE
+Jo Jo,EXCELLENT,EXPENSIVE,3 starFrench$$$Upper East Side,FALSE,French,-73.9657054,40.7650865,Upper East Side,151,4,FALSE
+Sushi Nakazawa,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starJapanese, Sushi$$$$West Village",TRUE,"Japanese, Sushi",-74.0044906,40.7318015,West Village,1387,4.5,FALSE
+Gotham Bar and Grill,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starAmerican$$$$Greenwich Village,TRUE,American,-73.9936942,40.734199,Greenwich Village,2890,4.5,FALSE
+Del Posto,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starItalian$$$$Chelsea,TRUE,Italian,-74.0079322,40.7433097,Chelsea,1440,4,FALSE
+Odo,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starJapanese$$$$Flatiron district,TRUE,Japanese,-73.9921624,40.7403982,Flatiron district,23,4,FALSE
+Benno,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starFrench, Italian$$$$NoMad",TRUE,"French, Italian",-73.98697440000001,40.7439469,NoMad,39,4.5,FALSE
+Atomix,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starKorean$$$$Murray Hill,TRUE,Korean,-73.9828146,40.7442469,Murray Hill,74,4.5,FALSE
+Shoji at 69 Leonard Street,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starJapanese$$$$TriBeCa,TRUE,Japanese,-74.0054,40.7176,TriBeCa,53,4,FALSE
+The Grill,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starAmerican$$$$Midtown,TRUE,American,-73.9718681,40.7583177,Midtown,189,4,FALSE
+Union Square Cafe,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starAmerican, Italian$$$$Gramercy Park",TRUE,"American, Italian",-73.9878767,40.7377702,Gramercy Park,1219,4,FALSE
+Aska,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starScandinavian$$$$Williamsburg,TRUE,Scandinavian,-73.966422,40.7122907,Williamsburg,101,4.5,FALSE
+Le Coucou,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$SoHo,TRUE,French,-74.00018589999999,40.7191075,SoHo,563,4,FALSE
+Gramercy Tavern,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starAmerican$$$$Flatiron,TRUE,American,-73.98850639999999,40.7384555,Flatiron,2890,4.5,FALSE
+Agern,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starScandinavian$$$$Midtown East,TRUE,Scandinavian,-73.97723529999999,40.7527277,Midtown East,205,4,FALSE
+Aquavit,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starScandinavian$$$$Midtown East,TRUE,Scandinavian,-73.97723529999999,40.7527277,Midtown East,742,4,FALSE
+Momofuku Ko,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starAsian, French$$$$East Village",TRUE,"Asian, French",-73.991678,40.724834799999996,East Village,309,4.5,FALSE
+Gabriel Kreuther,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$Midtown,TRUE,French,-73.9825,40.7544444,Midtown,425,4.5,FALSE
+Blanca,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starAmerican$$$$Bushwick,TRUE,American,-73.9335866,40.7050622,Bushwick,169,4,FALSE
+Agern,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starScandinavian$$$$Midtown East,TRUE,Scandinavian,-73.9721667,40.7608111,Midtown East,205,4,FALSE
+Aquavit,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starScandinavian$$$$Midtown East,TRUE,Scandinavian,-73.9721667,40.7608111,Midtown East,742,4,FALSE
+Shuko,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starJapanese$$$$Greenwich Village,TRUE,Japanese,-73.9916539,40.7336156,Greenwich Village,282,4,FALSE
+The Simone,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starAmerican, French$$$$Upper East Side",TRUE,"American, French",-73.956948,40.7768662,Upper East Side,92,5,FALSE
+Daniel,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$Upper East Side,TRUE,French,-73.96758609999999,40.7667694,Upper East Side,1587,4.5,FALSE
+Cafe Boulud,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$Upper East Side,TRUE,French,-73.96758609999999,40.7667694,Upper East Side,726,4,FALSE
+Carbone,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starAmerican, Italian$$$$Greenwich Village",TRUE,"American, Italian",-74.00021819999999,40.7279895,Greenwich Village,1003,4,FALSE
+The Dining Room at the Modern,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starNew American$$$$Midtown East,TRUE,New American,-73.976753,40.761081,Midtown East,203,4,FALSE
+Atera,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starAmerican$$$$TriBeCa,TRUE,American,-74.0055631,40.7169003,TriBeCa,259,4.5,FALSE
+The NoMad,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starAmerican$$$$NoMad,TRUE,American,-73.9874105,40.7446072,NoMad,1474,4,FALSE
+Kyo Ya,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starJapanese, Sushi$$$$East Village",TRUE,"Japanese, Sushi",-73.9853909,40.7266249,East Village,455,4.5,FALSE
+Sushi Yasuda,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starJapanese, Sushi$$$$Midtown East",TRUE,"Japanese, Sushi",-73.97350829999999,40.7511139,Midtown East,2120,4,FALSE
+Craft,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starNew American$$$$Flatiron,TRUE,New American,-73.9886678,40.7381658,Flatiron,111,4.5,FALSE
+Masa,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starJapanese, Sushi$$$$Upper West Side",TRUE,"Japanese, Sushi",-73.9830458,40.7685299,Upper West Side,333,4,FALSE
+Brooklyn Fare,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starAmerican, Seafood$$$$Boerum Hill",TRUE,"American, Seafood",-73.9964617,40.7561226,Boerum Hill,520,4.5,FALSE
+Ai Fiori,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starFrench, Italian$$$$Midtown South",TRUE,"French, Italian",-73.9837835,40.7500752,Midtown South,1261,4,FALSE
+La Grenouille,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$Midtown East,TRUE,French,-73.975597,40.75965900000001,Midtown East,433,4,FALSE
+Marea,EXCELLENT,VERY_EXPENSIVE,"NYT Critic’s Pick3 starItalian, Seafood$$$$Midtown",TRUE,"Italian, Seafood",-73.9808685,40.76747890000001,Midtown,2035,4,FALSE
+Minetta Tavern,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$Greenwich Village,TRUE,French,-74.0007016,40.7299881,Greenwich Village,2190,4,FALSE
+Daniel,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$Upper East Side,TRUE,French,-73.9640958,40.7744937,Upper East Side,1587,4.5,FALSE
+Cafe Boulud,EXCELLENT,VERY_EXPENSIVE,NYT Critic’s Pick3 starFrench$$$$Upper East Side,TRUE,French,-73.9640958,40.7744937,Upper East Side,726,4,FALSE
+Birria-Landia,VERY_GOOD,INEXPENSIVE,NYT Critic’s Pick2 starMexican$Jackson Heights,TRUE,Mexican,-73.887785,40.7472387,Jackson Heights,63,5,FALSE
+Bread and Salt,VERY_GOOD,INEXPENSIVE,"NYT Critic’s Pick2 starItalian, Pizza$Jersey City",TRUE,"Italian, Pizza",-74.0448569,40.7435823,Jersey City,105,4,TRUE
+Little Tong Noodle Shop,VERY_GOOD,INEXPENSIVE,NYT Critic’s Pick2 starChinese$East Village,TRUE,Chinese,-73.98432799999999,40.729379,East Village,267,4,TRUE
+Superiority Burger,VERY_GOOD,INEXPENSIVE,NYT Critic’s Pick2 starVegan$East Village,TRUE,Vegan,-73.9834728,40.7275002,East Village,603,4,TRUE
+Mighty Quinn's Barbeque,VERY_GOOD,INEXPENSIVE,NYT Critic’s Pick2 starBarbecue$East Village,TRUE,Barbecue,-73.9886167,40.7275899,East Village,269,3.5,TRUE
+Spicy & Tasty,VERY_GOOD,INEXPENSIVE,2 starChinese$Flushing,FALSE,Chinese,-73.258991,40.84722,Flushing,221,4.5,TRUE
+Sripraphai,VERY_GOOD,INEXPENSIVE,2 starThai$Woodside,FALSE,Thai,-73.8992506,40.7464269,Woodside,2324,4,FALSE
+The Four Horsemen,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starAmerican$$Williamsburg,TRUE,American,-73.957307,40.7130869,Williamsburg,182,4.5,FALSE
+Nami Nori,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starJapanese$$Greenwich Village,TRUE,Japanese,-74.0032496,40.7302914,Greenwich Village,134,4,FALSE
+Lokanta,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starTurkish$$Astoria,TRUE,Turkish,-73.92488929999999,40.7615617,Astoria,103,4,FALSE
+Una Pizza Napoletana,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starItalian, Pizza$$Lower East Side",TRUE,"Italian, Pizza",-73.9886214,40.7217573,Lower East Side,117,3.5,FALSE
+Hanon,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starJapanese$$Williamsburg,TRUE,Japanese,-73.95134449999999,40.71344879999999,Williamsburg,103,4.5,FALSE
+Wayan,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starIndonesian$$NoLIta,TRUE,Indonesian,-73.9950855,40.7213692,NoLIta,205,4.5,FALSE
+Haenyeo,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$Park Slope,TRUE,Korean,-74.0059728,40.7127753,Park Slope,117,4,TRUE
+Cka Ka Qellu,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starEastern European $$Belmont,TRUE,Eastern European,-73.88821159999999,40.8539343,Belmont,74,4.5,TRUE
+Cherry Point,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, English$$Greenpoint",TRUE,"American, English",-73.9510951,40.7247241,Greenpoint,142,4.5,FALSE
+Adda Indian Canteen,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starIndian$$Long Island City,TRUE,Indian,-73.9342389,40.7450126,Long Island City,321,4,TRUE
+Hunan Slurp,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starChinese$$East Village,TRUE,Chinese,-73.9856429,40.7266937,East Village,215,4,TRUE
+Village Cafe,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starEastern European $$Midwood,TRUE,Eastern European,-73.9625157,40.6090366,Midwood,90,4.5,FALSE
+Soogil,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$East Village,TRUE,Korean,-73.98837309999999,40.7256823,East Village,112,4,TRUE
+Oiji,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$East Village,TRUE,Korean,-73.98837309999999,40.7256823,East Village,505,4.5,FALSE
+La Mercerie,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starFrench$$SoHo,TRUE,French,-74.0021708,40.72014780000001,SoHo,162,3.5,FALSE
+Claro,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starMexican$$Gowanus,TRUE,Mexican,NA,NA,Gowanus,169,4,TRUE
+Chez Ma Tante,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, European$$Greenpoint",TRUE,"American, European",-73.9573881,40.7268985,Greenpoint,164,4.5,FALSE
+Tetsu,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Japanese$$TriBeCa",TRUE,"American, Japanese",-74.00529569999999,40.7173363,TriBeCa,132,3.5,TRUE
+Jeju Noodle Bar,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$West Village,TRUE,Korean,-74.0073417,40.7329889,West Village,557,4.5,FALSE
+Ugly Baby,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starThai$$Carroll Gardens,TRUE,Thai,-73.9960619,40.6778956,Carroll Gardens,340,4.5,FALSE
+Cote,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$Flatiron,TRUE,Korean,-73.99142859999999,40.7410508,Flatiron,871,4,FALSE
+Oberlin,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Italian, Seafood$$Providence, RI",TRUE,"American, Italian, Seafood",-82.22108899999999,41.2958696,"Providence, RI",372,3.5,TRUE
+Atla,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starMexican$$NoHo,TRUE,Mexican,-73.9939581,40.7271532,NoHo,287,3.5,FALSE
+ABCV,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starVegan, Vegetarian$$Flatiron",TRUE,"Vegan, Vegetarian",-73.98928409999999,40.7379803,Flatiron,518,4,FALSE
+Atoboy,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$NoMad,TRUE,Korean,-73.984537,40.743663,NoMad,361,4.5,FALSE
+Franklin Barbecue,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Barbecue$$Austin, Tex.",TRUE,"American, Barbecue",-97.7313345,30.270046,"Austin, Tex.",36,4.5,FALSE
+Sahib,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starIndian$$Kips Bay,TRUE,Indian,-73.98296590000001,40.7423098,Kips Bay,214,4,TRUE
+Hao Noodle and Tea by Madam Zhu’s Kitchen,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starChinese$$Greenwich Village,TRUE,Chinese,-74.0000259,40.7335054,Greenwich Village,388,4.5,FALSE
+Olmsted,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starAmerican$$Prospect Heights,TRUE,American,-73.9687778,40.67715829999999,Prospect Heights,386,4,FALSE
+Pasquale Jones,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Italian$$Little Italy",TRUE,"American, Italian",-73.9967554,40.7210784,Little Italy,245,3.5,FALSE
+Insa,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$Gowanus,TRUE,Korean,-73.982591,40.679547,Gowanus,253,3.5,TRUE
+High Street on Hudson,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starAmerican$$West Village,TRUE,American,-74.0056796,40.7389011,West Village,415,4,TRUE
+Little Pepper,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starChinese$$College Point,TRUE,Chinese,-73.846049,40.782447,College Point,313,4,TRUE
+Llama Inn,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starLatin American$$Williamsburg,TRUE,Latin American,-73.9505721,40.7166413,Williamsburg,469,4,FALSE
+Wildair,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starAmerican$$Lower East Side,TRUE,American,-73.9891648,40.7200222,Lower East Side,180,4,FALSE
+Soogil,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$East Village,TRUE,Korean,-73.985845,40.727263,East Village,112,4,TRUE
+Oiji,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starKorean$$East Village,TRUE,Korean,-73.985845,40.727263,East Village,505,4.5,FALSE
+Mu Ramen,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Japanese$$Long Island City",TRUE,"American, Japanese",-73.9506487,40.7438072,Long Island City,1217,3.5,FALSE
+Huertas,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starSpanish$$East Village,TRUE,Spanish,-73.9862162,40.7268446,East Village,308,4,FALSE
+Bar Primi,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starItalian$$East Village,TRUE,Italian,-73.9917116,40.7256662,East Village,626,3.5,TRUE
+Ivan Ramen,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Japanese$$Lower East Side",TRUE,"American, Japanese",-73.9845212,40.7205819,Lower East Side,1289,3.5,TRUE
+Russ & Daughters Cafe,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starEastern European$$Lower East Side,TRUE,Eastern European,-73.9895879,40.7196441,Lower East Side,999,4,FALSE
+El Quinto Pino,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starSpanish$$Chelsea,TRUE,Spanish,-74.0011974,40.74741239999999,Chelsea,293,3.5,TRUE
+Toro,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starSpanish$$Chelsea,TRUE,Spanish,-74.0011974,40.74741239999999,Chelsea,495,3.5,FALSE
+Gotham West Market,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Coffee Shops, Diners, Japanese, Sandwiches, Spanish, Tapas$$Clinton",TRUE,"American, Coffee Shops, Diners, Japanese, Sandwiches, Spanish, Tapas",-73.9968963,40.7624543,Clinton,555,4,FALSE
+El Quinto Pino,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starSpanish$$Chelsea,TRUE,Spanish,-74.0083374,40.743252,Chelsea,293,3.5,TRUE
+Toro,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starSpanish$$Chelsea,TRUE,Spanish,-74.0083374,40.743252,Chelsea,495,3.5,FALSE
+Casa Enrique,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starMexican$$Long Island City,TRUE,Mexican,-73.95438089999999,40.7434063,Long Island City,1184,4,TRUE
+Pig and Khao,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starAsian$$Lower East Side,TRUE,Asian,-73.9848028,40.7192889,Lower East Side,1654,4,FALSE
+Krescendo,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starItalian, Pizza$$Boerum Hill",TRUE,"Italian, Pizza",-73.9863781,40.687265,Boerum Hill,621,4.5,TRUE
+Moti Mahal Delux,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starIndian$$Upper East Side,TRUE,Indian,-73.9603867,40.7621148,Upper East Side,473,4,TRUE
+Dirt Candy,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Vegetarian$$East Village",TRUE,"American, Vegetarian",-73.99063090000001,40.717847,East Village,651,4,FALSE
+La Vara,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starSpanish, Tapas$$Cobble Hill",TRUE,"Spanish, Tapas",-73.9957536,40.6878015,Cobble Hill,358,4,FALSE
+Hill Country Barbecue Market,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starBarbecue$$Midtown South,TRUE,Barbecue,-73.9904866,40.7441558,Midtown South,2164,3.5,TRUE
+Cafe China,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starChinese$$Midtown South,TRUE,Chinese,-73.9821584,40.7500611,Midtown South,1620,4,TRUE
+Parm,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starAmerican, Italian$$Nolita",TRUE,"American, Italian",-73.9792883,40.7764282,Nolita,740,3.5,TRUE
+Roberta's,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starItalian, Pizza$$Bushwick",TRUE,"Italian, Pizza",-73.97667609999999,40.754368,Bushwick,2829,4,TRUE
+Prime Meats,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starGerman$$Carroll Gardens,TRUE,German,-74.0016339,40.7272362,Carroll Gardens,7,4,FALSE
+Novitá,VERY_GOOD,MODERATE,2 starItalian$$Gramercy Park,FALSE,Italian,NA,NA,Gramercy Park,308,4,TRUE
+Szechuan Gourmet,VERY_GOOD,MODERATE,2 starChinese$$Midtown South,FALSE,Chinese,-73.98291979999999,40.7656668,Midtown South,345,3,TRUE
+Boqueria,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starSpanish$$Flatiron,TRUE,Spanish,-73.99001249999999,40.7554094,Flatiron,1005,4,TRUE
+Morgan Dining Room,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starNew American$$Midtown South,TRUE,New American,-73.9815265,40.7492094,Midtown South,24,3.5,FALSE
+Degustation Wine & Tasting Bar,VERY_GOOD,MODERATE,"2 starFrench, Spanish$$East Village",FALSE,"French, Spanish",-74.0057765,40.7423569,East Village,302,4.5,TRUE
+Cafe D'Alsace,VERY_GOOD,MODERATE,"NYT Critic’s Pick2 starEuropean, German$$Upper East Side",TRUE,"European, German",-73.9510841,40.7791721,Upper East Side,1196,4,TRUE
+Al di Là,VERY_GOOD,MODERATE,NYT Critic’s Pick2 starItalian$$Park Slope North,TRUE,Italian,-73.9814311,40.6753101,Park Slope North,890,4,FALSE
+The Red Cat,VERY_GOOD,MODERATE,"2 starMediterranean, New American$$Chelsea",FALSE,"Mediterranean, New American",-74.00419,40.748122,Chelsea,38,3.5,FALSE
+Donguri,VERY_GOOD,MODERATE,"2 starJapanese, Sushi$$Upper East Side",FALSE,"Japanese, Sushi",-73.9522764,40.7757788,Upper East Side,143,4,TRUE
+Bread Tribeca,VERY_GOOD,MODERATE,2 starItalian$$TriBeCa,FALSE,Italian,-74.00585989999999,40.7200392,TriBeCa,390,4.5,FALSE
+Otto Enoteca Pizzeria,VERY_GOOD,MODERATE,"2 starItalian, Pizza$$Greenwich Village",FALSE,"Italian, Pizza",-73.996223,40.731991,Greenwich Village,2121,3.5,TRUE
+Café Sabarsky,VERY_GOOD,MODERATE,2 starAustrian$$Upper East Side,FALSE,Austrian,-73.9602568,40.7812357,Upper East Side,498,4,FALSE
+Heartbeat,VERY_GOOD,MODERATE,2 starNew American$$Midtown East,FALSE,New American,-73.9834736,40.7630929,Midtown East,26,3.5,FALSE
+Chola,VERY_GOOD,MODERATE,2 starIndian$$Midtown East,FALSE,Indian,-73.96578,40.7602098,Midtown East,599,4,TRUE
+Tang Pavilion,VERY_GOOD,MODERATE,2 starChinese$$Midtown,FALSE,Chinese,-73.97706939999999,40.7627063,Midtown,306,3.5,TRUE
+Kang Suh Restaurant,VERY_GOOD,MODERATE,2 starKorean$$Koreatown,FALSE,Korean,-73.9878548,40.7478189,Koreatown,2020,4,FALSE
+Uogashi,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starJapanese$$$Clinton,TRUE,Japanese,-73.9869736,40.7631984,Clinton,76,4.5,FALSE
+Babs,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starFrench, Spanish$$$Greenwich Village",TRUE,"French, Spanish",-74.0018035,40.7282523,Greenwich Village,34,3.5,FALSE
+Hutong,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starChinese$$$,TRUE,Chinese,-73.96790469999999,40.7618559,NA,278,3.5,FALSE
+Pastis,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starFrench$$$Meatpacking District,TRUE,French,-74.007014,40.73924179999999,Meatpacking District,163,4,FALSE
+The Fulton,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starSeafood$$$Seaport District,TRUE,Seafood,-74.0009726,40.7053125,Seaport District,170,3.5,FALSE
+Crown Shy,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Financial District,TRUE,American,-74.0059728,40.7127753,Financial District,267,4.5,FALSE
+Kawi,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starKorean$$$Hudson Yards,TRUE,Korean,-74.0003285,40.7537618,Hudson Yards,184,4,FALSE
+Standard Grill,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$West Village,TRUE,American,-74.00787629999999,40.7406769,West Village,1144,3.5,FALSE
+Chumley’s,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$West Village,TRUE,American,-74.00787629999999,40.7406769,West Village,204,3.5,FALSE
+Sofreh,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starMiddle Eastern$$$Prospect Heights,TRUE,Middle Eastern,-73.97398079999999,40.6798441,Prospect Heights,228,4,FALSE
+The Bar at Momofuku Ko,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$East Village,TRUE,American,-73.991678,40.724834799999996,East Village,309,4.5,FALSE
+Tuome,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$East Village,TRUE,American,-73.991678,40.724834799999996,East Village,498,4.5,FALSE
+Don Angie,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAmerican, Italian$$$West Village",TRUE,"American, Italian",-74.00209389999999,40.7378037,West Village,315,4.5,FALSE
+Simon & the Whale,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Flatiron,TRUE,American,-73.9844715,40.7396083,Flatiron,190,4,FALSE
+Hwa Yuan Szechuan,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starChinese$$$Chinatown,TRUE,Chinese,-73.9960242,40.7137682,Chinatown,267,4,TRUE
+Chinese Tuxedo,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starChinese$$$Chinatown,TRUE,Chinese,-73.9960242,40.7137682,Chinatown,276,3.5,FALSE
+"The Aviary NYC, The Office NYC",VERY_GOOD,EXPENSIVE,2 starAmerican$$$Upper West Side,FALSE,American,-73.9830036,40.7688396,Upper West Side,222,4,FALSE
+Ferris,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Chelsea,TRUE,American,-73.9896583,40.7462639,Chelsea,172,4,FALSE
+The Loyal,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Greenwich Village,TRUE,American,-74.0032951,40.732159,Greenwich Village,204,4,FALSE
+Loring Place,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Greenwich Village,TRUE,American,-74.0032951,40.732159,Greenwich Village,407,4.5,FALSE
+Prune,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starNew American$$$East Village,TRUE,New American,-73.98936599999999,40.723918,East Village,1052,3.5,FALSE
+Nur,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starMiddle Eastern$$$Flatiron,TRUE,Middle Eastern,-73.9887968,40.738544,Flatiron,283,4,FALSE
+King,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starFrench, Italian$$$SoHo",TRUE,"French, Italian",-74.003456,40.727565,SoHo,157,3.5,FALSE
+The Loyal,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Greenwich Village,TRUE,American,-73.99758369999999,40.7329277,Greenwich Village,204,4,FALSE
+Loring Place,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Greenwich Village,TRUE,American,-73.99758369999999,40.7329277,Greenwich Village,407,4.5,FALSE
+Hwa Yuan Szechuan,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starChinese$$$Chinatown,TRUE,Chinese,-73.9980357,40.7143302,Chinatown,267,4,TRUE
+Chinese Tuxedo,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starChinese$$$Chinatown,TRUE,Chinese,-73.9980357,40.7143302,Chinatown,276,3.5,FALSE
+Standard Grill,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$West Village,TRUE,American,-74.005059,40.732095,West Village,1144,3.5,FALSE
+Chumley’s,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$West Village,TRUE,American,-74.005059,40.732095,West Village,204,3.5,FALSE
+Flora Bar,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAmerican, Japanese, Spanish$$$Upper East Side",TRUE,"American, Japanese, Spanish",-73.9638262,40.7733983,Upper East Side,113,3.5,FALSE
+Paowalla,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starIndian$$$SoHo,TRUE,Indian,-74.0032092,40.7252868,SoHo,735,4,FALSE
+The Beatrice Inn,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAmerican, French$$$West Village",TRUE,"American, French",-74.0041189,40.7377239,West Village,349,3.5,TRUE
+Nix,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starVegetarian$$$Greenwich Village,TRUE,Vegetarian,-73.993674,40.7332505,Greenwich Village,552,4,FALSE
+Le Coq Rico,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starFrench$$$Flatiron,TRUE,French,-73.9889029,40.738574,Flatiron,330,4,TRUE
+La Sirena,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$Chelsea,TRUE,Italian,-73.990263,40.72595,Chelsea,24,4.5,FALSE
+Café Altro Paradiso,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$SoHo,TRUE,Italian,-74.0046926,40.7254266,SoHo,149,3.5,FALSE
+I Sodi,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$West Village,TRUE,Italian,-74.00499479999999,40.7334439,West Village,353,3.5,FALSE
+Via Carota,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$West Village,TRUE,Italian,-74.00499479999999,40.7334439,West Village,543,4,FALSE
+Houseman,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Hudson Square,TRUE,American,-74.00926749999999,40.7257238,Hudson Square,108,4,TRUE
+The Clocktower,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starEnglish, French$$$Midtown South",TRUE,"English, French",-73.9873733,40.7412813,Midtown South,379,4,FALSE
+Untitled,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Meatpacking District,TRUE,American,-74.00854919999999,40.73953179999999,Meatpacking District,292,4,FALSE
+Mission Chinese Food,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAmerican, Chinese$$$Lower East Side",TRUE,"American, Chinese",-73.98969559999999,40.713914,Lower East Side,763,3,TRUE
+Santina,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$Meatpacking District,TRUE,Italian,-74.00888549999999,40.7396039,Meatpacking District,660,3.5,FALSE
+Little Park,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$TriBeCa,TRUE,American,-74.0091553,40.7152366,TriBeCa,371,4,FALSE
+I Sodi,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$West Village,TRUE,Italian,-74.0036162,40.73314480000001,West Village,353,3.5,FALSE
+Via Carota,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$West Village,TRUE,Italian,-74.0036162,40.73314480000001,West Village,543,4,FALSE
+Dirty French,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starFrench$$$Lower East Side,TRUE,French,-73.987285,40.721946,Lower East Side,652,4,FALSE
+Marta,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starItalian, Pizza$$$Midtown South",TRUE,"Italian, Pizza",-73.9845825,40.7444764,Midtown South,889,4,FALSE
+Bar Bolonat,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starMiddle Eastern$$$West Village,TRUE,Middle Eastern,-74.0058554,40.7376826,West Village,58,4,TRUE
+The Bar at Momofuku Ko,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$East Village,TRUE,American,-73.9828264,40.7240662,East Village,309,4.5,FALSE
+Tuome,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$East Village,TRUE,American,-73.9828264,40.7240662,East Village,498,4.5,FALSE
+Contra,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Lower East Side,TRUE,American,-73.98916,40.719907,Lower East Side,322,4,FALSE
+Sushi Dojo,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starJapanese, Sushi$$$East Village",TRUE,"Japanese, Sushi",-73.9856625,40.7266342,East Village,443,4,TRUE
+Hearth,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starItalian, New American$$$East Village",TRUE,"Italian, New American",-73.9831883,40.7300263,East Village,718,4,FALSE
+Lake Pavilion,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starChinese$$$Flushing,TRUE,Chinese,-73.82490539999999,40.74263,Flushing,469,3,FALSE
+Estela,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starMediterranean$$$Nolita,TRUE,Mediterranean,-73.994739,40.72464129999999,Nolita,520,4,FALSE
+ABC Cocina,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starLatin American$$$Flatiron,TRUE,Latin American,-73.9893379,40.7380084,Flatiron,902,4,FALSE
+Uncle Boons,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starThai$$$Nolita,TRUE,Thai,-73.9943972,40.7213778,Nolita,1006,4,FALSE
+Kajitsu,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starJapanese, Sushi$$$Murray Hill",TRUE,"Japanese, Sushi",-73.9777611,40.7497944,Murray Hill,239,4,FALSE
+Montmartre,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAsian, French$$$Chelsea",TRUE,"Asian, French",-73.98242929999999,40.7760042,Chelsea,5,3.5,FALSE
+Hanjan,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starKorean$$$Midtown South,TRUE,Korean,-73.9906286,40.7442451,Midtown South,423,4,FALSE
+Jeepney,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starPhilippine$$$East Village,TRUE,Philippine,-73.9835944,40.7302917,East Village,1118,4,TRUE
+Thirty Acres,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$,TRUE,American,-74.04706279999999,40.7196793,NA,333,4,TRUE
+M. Wells Dinette,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starFrench$$$Long Island City,TRUE,French,-73.942296,40.7484929,Long Island City,407,3.5,FALSE
+Acme,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAmerican, Scandinavian$$$NoHo",TRUE,"American, Scandinavian",-73.9940625,40.72721809999999,NoHo,402,3,TRUE
+RedFarm,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starChinese$$$West Village,TRUE,Chinese,-74.00648939999999,40.734192,West Village,662,3.5,FALSE
+Salinas,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starSpanish$$$Chelsea,TRUE,Spanish,-74.0029917,40.7436444,Chelsea,920,4,FALSE
+Tertulia,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starSpanish$$$West Village,TRUE,Spanish,-74.0008445,40.7322861,West Village,1903,4,FALSE
+The Dutch,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$SoHo,TRUE,American,-74.0021536,40.7265328,SoHo,1172,3.5,FALSE
+Junoon,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starIndian$$$Midtown South,TRUE,Indian,-73.9908619,40.7430986,Midtown South,1479,3.5,TRUE
+Red Rooster Harlem,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAmerican, Southern$$$Harlem",TRUE,"American, Southern",-73.94475349999999,40.8080989,Harlem,3238,3.5,FALSE
+Riverpark,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$Kips Bay,TRUE,American,-73.973737,40.739516,Kips Bay,814,4,FALSE
+Marc Forgione,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starAmerican, New American$$$TriBeCa",TRUE,"American, New American",-74.00960730000001,40.71649379999999,TriBeCa,919,4.5,FALSE
+Tamarind Tribeca,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starIndian$$$TriBeCa,TRUE,Indian,-74.00891399999999,40.719217,TriBeCa,919,4,FALSE
+Má Pêche,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starAsian$$$Midtown,TRUE,Asian,-73.975427,40.762936,Midtown,1026,4,TRUE
+ABC Kitchen,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starNew American$$$Flatiron,TRUE,New American,-73.9896167,40.737775,Flatiron,2971,4,FALSE
+Recette,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starNew American, Spanish$$$West Village",TRUE,"New American, Spanish",-74.006613,40.737409,West Village,1600,4.5,FALSE
+Maialino,VERY_GOOD,EXPENSIVE,2 starItalian$$$Gramercy Park,FALSE,Italian,-73.9859278,40.7385306,Gramercy Park,1390,4,FALSE
+Oceana,VERY_GOOD,EXPENSIVE,2 starSeafood$$$Times Square Theatre District,FALSE,Seafood,-73.9823074,40.7597641,Times Square Theatre District,532,4,FALSE
+Locanda Verde,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$TriBeCa,TRUE,Italian,-74.01002489999999,40.7198964,TriBeCa,1624,4,FALSE
+Aldea,VERY_GOOD,EXPENSIVE,"2 starNew American, Portuguese$$$Flatiron",FALSE,"New American, Portuguese",-73.993779,40.7387554,Flatiron,609,4,TRUE
+Market Table,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starNew American$$$West Village,TRUE,New American,-74.00370199999999,40.729697,West Village,790,4,FALSE
+Perbacco,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starItalian$$$East Village,TRUE,Italian,-73.983149,40.7232879,East Village,250,4,FALSE
+Artisanal,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starFrench$$$Midtown South,TRUE,French,-73.9829025,40.7462158,Midtown South,5,5,FALSE
+Bar Boulud,VERY_GOOD,EXPENSIVE,NYT Critic’s Pick2 starFrench$$$Upper West Side,TRUE,French,-73.9818528,40.77179719999999,Upper West Side,876,3.5,FALSE
+Soto,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starJapanese, Sushi$$$West Village",TRUE,"Japanese, Sushi",-74.000883,40.7322346,West Village,2,3.5,FALSE
+Sfoglia,VERY_GOOD,EXPENSIVE,"NYT Critic’s Pick2 starCafes, Italian$$$Upper East Side",TRUE,"Cafes, Italian",-73.9528729,40.7834926,Upper East Side,276,4,FALSE
+The Little Owl,VERY_GOOD,EXPENSIVE,"2 starMediterranean, New American, Seafood$$$West Village",FALSE,"Mediterranean, New American, Seafood",-74.005318,40.732398,West Village,1267,4,FALSE
+Buddakan New York,VERY_GOOD,EXPENSIVE,2 starAsian$$$Chelsea,FALSE,Asian,-74.0048253,40.7422555,Chelsea,3965,4,TRUE
+Cookshop,VERY_GOOD,EXPENSIVE,2 starNew American$$$Chelsea,FALSE,New American,-74.0054421,40.7455937,Chelsea,2095,4,TRUE
+Abboccato,VERY_GOOD,EXPENSIVE,2 starItalian$$$Midtown,FALSE,Italian,-73.9796738,40.7635315,Midtown,246,3.5,FALSE
+Il Gattopardo,VERY_GOOD,EXPENSIVE,2 starItalian$$$Midtown,FALSE,Italian,-73.9796738,40.7635315,Midtown,156,4,FALSE
+Oriental Garden,VERY_GOOD,EXPENSIVE,2 starChinese$$$Chinatown,FALSE,Chinese,-73.99726609999999,40.7158358,Chinatown,528,4,FALSE
+Spigolo,VERY_GOOD,EXPENSIVE,2 starItalian$$$Upper East Side,FALSE,Italian,-73.9566687,40.7719019,Upper East Side,276,4,FALSE
+Taboon,VERY_GOOD,EXPENSIVE,"2 starMediterranean, Middle Eastern$$$Clinton",FALSE,"Mediterranean, Middle Eastern",-73.9909847,40.7661805,Clinton,654,4,FALSE
+Periyali,VERY_GOOD,EXPENSIVE,2 starGreek$$$Flatiron,FALSE,Greek,-73.992967,40.7406134,Flatiron,263,4,FALSE
+Stone Park Cafe,VERY_GOOD,EXPENSIVE,2 starNew American$$$Park Slope,FALSE,New American,-73.98346,40.6730516,Park Slope,913,4,FALSE
+Gari,VERY_GOOD,EXPENSIVE,"2 starJapanese, Sushi$$$Upper West Side",FALSE,"Japanese, Sushi",-73.9896167,40.7606917,Upper West Side,680,4,TRUE
+Dévi,VERY_GOOD,EXPENSIVE,2 starIndian$$$Union Square,FALSE,Indian,NA,NA,Union Square,2,5,FALSE
+Wolfgang's Steakhouse,VERY_GOOD,EXPENSIVE,2 starSteak Houses$$$Midtown South,FALSE,Steak Houses,-73.9894444,40.7561111,Midtown South,550,4,FALSE
+Balthazar,VERY_GOOD,EXPENSIVE,"2 starBistros, French$$$SoHo",FALSE,"Bistros, French",-73.9982235,40.7226041,SoHo,3088,4,FALSE
+Wallse,VERY_GOOD,EXPENSIVE,2 starGerman$$$West Village,FALSE,German,-74.008212,40.73541,West Village,276,4,FALSE
+'Cesca,VERY_GOOD,EXPENSIVE,2 starItalian$$$Upper West Side,FALSE,Italian,-73.9798349,40.7803067,Upper West Side,397,3.5,TRUE
+Amma,VERY_GOOD,EXPENSIVE,2 starIndian$$$Midtown East,FALSE,Indian,-73.9687464,40.755562,Midtown East,500,4,TRUE
+Pampano,VERY_GOOD,EXPENSIVE,"2 starMexican, Seafood$$$Midtown East",FALSE,"Mexican, Seafood",-73.97048579999999,40.7550102,Midtown East,556,4,FALSE
+Nice Matin,VERY_GOOD,EXPENSIVE,"2 starBistros, French$$$Upper West Side",FALSE,"Bistros, French",-73.978464,40.7833986,Upper West Side,745,3.5,FALSE
+Abboccato,VERY_GOOD,EXPENSIVE,2 starItalian$$$Midtown,FALSE,Italian,-73.9763981,40.7616956,Midtown,246,3.5,FALSE
+Il Gattopardo,VERY_GOOD,EXPENSIVE,2 starItalian$$$Midtown,FALSE,Italian,-73.9763981,40.7616956,Midtown,156,4,FALSE
+Molyvos,VERY_GOOD,EXPENSIVE,2 starGreek$$$Midtown,FALSE,Greek,-73.9805464,40.76448449999999,Midtown,488,3.5,TRUE
+Brasserie,VERY_GOOD,EXPENSIVE,"2 starBistros, French$$$Midtown East",FALSE,"Bistros, French",-73.97502709999999,40.7637614,Midtown East,453,3.5,FALSE
+I Coppi,VERY_GOOD,EXPENSIVE,2 starItalian$$$East Village,FALSE,Italian,-73.9833014,40.7273653,East Village,695,3.5,TRUE
+Cho Dang Gol,VERY_GOOD,EXPENSIVE,2 starKorean$$$Koreatown,FALSE,Korean,-73.9862594,40.7502517,Koreatown,1086,4,TRUE
+Blue Ribbon Sushi,VERY_GOOD,EXPENSIVE,"2 starJapanese, Sushi$$$SoHo",FALSE,"Japanese, Sushi",-74.00240819999999,40.726092,SoHo,1098,4,FALSE
+Nick and Toni's Cafe,VERY_GOOD,EXPENSIVE,2 starMediterranean$$$Upper West Side,FALSE,Mediterranean,-72.181375,40.970181,Upper West Side,894,3.5,FALSE
+Maya,VERY_GOOD,EXPENSIVE,2 starMexican$$$Upper East Side,FALSE,Mexican,-73.95972359999999,40.7631741,Upper East Side,930,3.5,TRUE
+Circus,VERY_GOOD,EXPENSIVE,2 starBrazilian$$$Upper East Side,FALSE,Brazilian,-73.985106,40.7722437,Upper East Side,130,4,FALSE
+Hatsuhana,VERY_GOOD,EXPENSIVE,"2 starJapanese, Sushi$$$Midtown East",FALSE,"Japanese, Sushi",-73.97694170000001,40.7570278,Midtown East,1338,4,TRUE
+Aquagrill,VERY_GOOD,EXPENSIVE,2 starSeafood$$$SoHo,FALSE,Seafood,-74.0038433,40.7253089,SoHo,1360,4,FALSE
+Les Halles,VERY_GOOD,EXPENSIVE,2 starFrench$$$Kips Bay,FALSE,French,-73.98360559999999,40.7435588,Kips Bay,2536,4.5,FALSE
+The Tavern by WS,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$Chelsea,TRUE,American,-74.00270789999999,40.7544832,Chelsea,19,4.5,FALSE
+Portale,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Chelsea,TRUE,Italian,-73.9962661,40.7402203,Chelsea,61,4,FALSE
+Frevo,VERY_GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick2 starAmerican, French$$$$Greenwich Village",TRUE,"American, French",NA,NA,Greenwich Village,27,4.5,FALSE
+TAK Room,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$Hudson Yards,TRUE,American,-74.00105500000001,40.7533936,Hudson Yards,112,4,FALSE
+Gem,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$Lower East Side,TRUE,American,-73.9921629,40.7191175,Lower East Side,29,4,FALSE
+Legacy Records,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Hudson Yards,TRUE,Italian,-73.99816799999999,40.7576082,Hudson Yards,126,3.5,FALSE
+Shabushabu Macoron,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starJapanese$$$$Lower East Side,TRUE,Japanese,-73.9910558,40.7191889,Lower East Side,68,4.5,FALSE
+L’Atelier de Joël Robuchon,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starFrench$$$$Chelsea,TRUE,French,-74.0078709,40.7430491,Chelsea,140,4.5,FALSE
+The Pool,VERY_GOOD,VERY_EXPENSIVE,"2 starAmerican, Seafood$$$$Midtown",FALSE,"American, Seafood",-73.9718681,40.7583177,Midtown,98,4,FALSE
+Babbo,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Greenwich Village,TRUE,Italian,-73.9992785,40.732296,Greenwich Village,2412,4,FALSE
+Fowler & Wells,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$Financial District,TRUE,American,-74.0067242,40.7113296,Financial District,253,4,FALSE
+Indian Accent,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starIndian$$$$Midtown,TRUE,Indian,-73.9788444,40.7642889,Midtown,571,4.5,FALSE
+Benoit,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starFrench$$$$Midtown,TRUE,French,-73.977277,40.762523,Midtown,456,3.5,TRUE
+Per Se,VERY_GOOD,VERY_EXPENSIVE,"2 starAmerican, French$$$$Upper West Side",FALSE,"American, French",-73.9829029,40.7682407,Upper West Side,1656,4.5,FALSE
+Tempura Matsui,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starJapanese$$$$Murray Hill,TRUE,Japanese,-73.9749707,40.7481306,Murray Hill,133,4.5,FALSE
+Bowery Meat Company,VERY_GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick2 starAmerican, Steak Houses$$$$East Village",TRUE,"American, Steak Houses",-73.9918409,40.7245665,East Village,492,4,TRUE
+Upland,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$Kips Bay,TRUE,American,-73.98488499999999,40.741659,Kips Bay,1010,4,FALSE
+Racines NY,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starFrench$$$$TriBeCa,TRUE,French,-74.0075586,40.7145751,TriBeCa,132,4,FALSE
+Grindhaus,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$Red Hook,TRUE,American,-74.0105476,40.6791799,Red Hook,102,4.5,TRUE
+Gato,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starMediterranean$$$$NoHo,TRUE,Mediterranean,-73.9952599,40.7255794,NoHo,1151,4,FALSE
+Narcissa,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$East Village,TRUE,American,-73.99073899999999,40.727842,East Village,503,3.5,FALSE
+River Cafe,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starNew American$$$$Fulton Ferry,TRUE,New American,-73.9947222,40.7038114,Fulton Ferry,1122,4,FALSE
+Cagen,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starJapanese$$$$East Village,TRUE,Japanese,-73.9842523,40.7277388,East Village,189,4,FALSE
+Ristorante Morini,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Upper East Side,TRUE,Italian,-73.9977806,40.7220167,Upper East Side,282,4,TRUE
+Piora,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$West Village,TRUE,American,-73.99142859999999,40.7410508,West Village,871,4,FALSE
+Armani Ristorante Fifth Avenue,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Midtown East,TRUE,Italian,-73.9742964,40.7620726,Midtown East,232,4,FALSE
+Casa Lever,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Midtown East,TRUE,Italian,-73.9742964,40.7620726,Midtown East,227,4,FALSE
+Costata,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$SoHo,TRUE,Italian,-73.9967982,40.72578439999999,SoHo,492,4,TRUE
+Nougatine at Jean Georges,VERY_GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick2 starAmerican, French$$$$Upper West Side",TRUE,"American, French",-73.98162549999999,40.7690255,Upper West Side,1125,4,FALSE
+Jungsik,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starKorean$$$$TriBeCa,TRUE,Korean,-74.0090823,40.7187987,TriBeCa,586,4.5,FALSE
+Monkey Bar,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starAmerican$$$$Midtown East,TRUE,American,-73.97320859999999,40.7598899,Midtown East,279,3.5,TRUE
+Boulud Sud,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starMediterranean$$$$Upper West Side,TRUE,Mediterranean,-73.9817056,40.7718806,Upper West Side,748,4,FALSE
+The Leopard at Des Artistes,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Upper West Side,TRUE,Italian,-73.9788133,40.7734007,Upper West Side,221,4,TRUE
+Lincoln Ristorante,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Upper West Side,TRUE,Italian,-73.9788133,40.7734007,Upper West Side,570,4,FALSE
+The Leopard at Des Artistes,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Upper West Side,TRUE,Italian,-73.9835995,40.77341450000001,Upper West Side,221,4,TRUE
+Lincoln Ristorante,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Upper West Side,TRUE,Italian,-73.9835995,40.77341450000001,Upper West Side,570,4,FALSE
+The Mark Restaurant by Jean-Georges,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starNew American$$$$Upper East Side,TRUE,New American,-73.9633279,40.7753416,Upper East Side,254,3.5,FALSE
+Strip House,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starSteak Houses$$$$Greenwich Village,TRUE,Steak Houses,-73.9934116,40.734399,Greenwich Village,980,4,TRUE
+Armani Ristorante Fifth Avenue,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Midtown East,TRUE,Italian,-73.9729522,40.7597331,Midtown East,232,4,FALSE
+Casa Lever,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starItalian$$$$Midtown East,TRUE,Italian,-73.9729522,40.7597331,Midtown East,227,4,FALSE
+La Fonda del Sol,VERY_GOOD,VERY_EXPENSIVE,NYT Critic’s Pick2 starLatin American$$$$Midtown East,TRUE,Latin American,-73.9768648,40.7536162,Midtown East,314,3.5,FALSE
+Blue Ribbon Sushi Bar and Grill,VERY_GOOD,VERY_EXPENSIVE,"2 starAmerican, Asian$$$$Clinton",FALSE,"American, Asian",-73.9831177,40.7675589,Clinton,753,4,FALSE
+15 East,VERY_GOOD,VERY_EXPENSIVE,"2 starJapanese, Sushi$$$$Union Square",FALSE,"Japanese, Sushi",-73.99218859999999,40.7364067,Union Square,634,4,FALSE
+Rosanjin,VERY_GOOD,VERY_EXPENSIVE,"2 starJapanese, Sushi$$$$TriBeCa",FALSE,"Japanese, Sushi",-74.0076857,40.7165454,TriBeCa,455,4.5,FALSE
+Megu,VERY_GOOD,VERY_EXPENSIVE,"2 starJapanese, Sushi$$$$TriBeCa",FALSE,"Japanese, Sushi",-74.0076857,40.7165454,TriBeCa,1093,4.5,FALSE
+Gordon Ramsay at the London,VERY_GOOD,VERY_EXPENSIVE,2 starFrench$$$$Midtown,FALSE,French,-73.98065869999999,40.7634909,Midtown,1656,4.5,FALSE
+DB Bistro Moderne,VERY_GOOD,VERY_EXPENSIVE,2 starFrench$$$$Midtown,FALSE,French,-73.98065869999999,40.7634909,Midtown,710,3.5,FALSE
+Tocqueville,VERY_GOOD,VERY_EXPENSIVE,"2 starFrench, New American$$$$Union Square",FALSE,"French, New American",-73.9927131,40.7366772,Union Square,356,4,FALSE
+Keens Steakhouse,VERY_GOOD,VERY_EXPENSIVE,2 starSteak Houses$$$$Koreatown,FALSE,Steak Houses,-73.9864611,40.7507861,Koreatown,2551,4,FALSE
+Rosanjin,VERY_GOOD,VERY_EXPENSIVE,"2 starJapanese, Sushi$$$$TriBeCa",FALSE,"Japanese, Sushi",-74.0035305,40.7420492,TriBeCa,455,4.5,FALSE
+Megu,VERY_GOOD,VERY_EXPENSIVE,"2 starJapanese, Sushi$$$$TriBeCa",FALSE,"Japanese, Sushi",-74.0035305,40.7420492,TriBeCa,1093,4.5,FALSE
+BLT Steak,VERY_GOOD,VERY_EXPENSIVE,"2 starFrench, Steak Houses$$$$Midtown East",FALSE,"French, Steak Houses",-73.9616751,40.77157320000001,Midtown East,404,4,TRUE
+David Burke Townhouse,VERY_GOOD,VERY_EXPENSIVE,2 starNew American$$$$Upper East Side,FALSE,New American,-73.96708300000002,40.764442,Upper East Side,195,4,TRUE
+Blue Fin,VERY_GOOD,VERY_EXPENSIVE,2 starSeafood$$$$Times Square Theatre District,FALSE,Seafood,-73.98532519999999,40.75937589999999,Times Square Theatre District,1018,3.5,FALSE
+Gordon Ramsay at the London,VERY_GOOD,VERY_EXPENSIVE,2 starFrench$$$$Midtown,FALSE,French,-73.9822126,40.7558502,Midtown,1656,4.5,FALSE
+DB Bistro Moderne,VERY_GOOD,VERY_EXPENSIVE,2 starFrench$$$$Midtown,FALSE,French,-73.9822126,40.7558502,Midtown,710,3.5,FALSE
+Triomphe,VERY_GOOD,VERY_EXPENSIVE,"2 starFrench, New American$$$$Midtown",FALSE,"French, New American",-73.982041,40.755821,Midtown,129,3.5,FALSE
+Smith & Wollensky Steak House,VERY_GOOD,VERY_EXPENSIVE,2 starSteak Houses$$$$Midtown East,FALSE,Steak Houses,-73.97095,40.75526,Midtown East,1454,3.5,FALSE
+Caviar Russe,VERY_GOOD,VERY_EXPENSIVE,2 starRussian$$$$Midtown East,FALSE,Russian,-73.9738498,40.7607667,Midtown East,128,4.5,FALSE
+Hakubai,VERY_GOOD,VERY_EXPENSIVE,2 starJapanese$$$$Midtown South,FALSE,Japanese,-73.9799685,40.749581,Midtown South,111,4,FALSE
+Orso,VERY_GOOD,VERY_EXPENSIVE,2 starItalian$$$$Clinton,FALSE,Italian,-73.9890099,40.7600118,Clinton,185,4,TRUE
+Il Mulino,VERY_GOOD,VERY_EXPENSIVE,2 starItalian$$$$Greenwich Village,FALSE,Italian,-73.99914700000001,40.729751,Greenwich Village,547,4,TRUE
+Da Umberto,VERY_GOOD,VERY_EXPENSIVE,2 starItalian$$$$Chelsea,FALSE,Italian,-73.99582699999999,40.739672,Chelsea,165,4,FALSE
+Thai Cook,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starThai$Elmhurst,TRUE,Thai,-73.99052259999999,40.7594312,Elmhurst,5,2.5,FALSE
+Foxface,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starSandwiches$East Village,TRUE,Sandwiches,-73.9857399,40.7276628,East Village,18,4.5,TRUE
+Bang Bar,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starSandwiches$Midtown,TRUE,Sandwiches,-73.9828769,40.768279,Midtown,95,4,FALSE
+Mama’s Too,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starPizza$Upper West Side,TRUE,Pizza,-73.9675901,40.8008324,Upper West Side,333,3.5,FALSE
+Kopitiam,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starMalaysian$Chinatown,TRUE,Malaysian,-73.99092329999999,40.7138286,Chinatown,636,4,TRUE
+Le Sia,GOOD,INEXPENSIVE,1 starChinese$East Village,FALSE,Chinese,-73.9898209,40.7289082,East Village,237,4,TRUE
+The Islands,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starCaribbean$Crown Heights,TRUE,Caribbean,-73.963421,40.677064,Crown Heights,697,4,TRUE
+Tim Ho Wan,GOOD,INEXPENSIVE,"NYT Critic’s Pick1 starChinese, Dim Sum$East Village",TRUE,"Chinese, Dim Sum",-73.9901486,40.7313215,East Village,1707,3.5,TRUE
+Dumpling Galaxy,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starChinese$Flushing,TRUE,Chinese,-73.8275503,40.7547953,Flushing,333,3.5,TRUE
+Biang!,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starChinese$Flushing,TRUE,Chinese,-73.8275503,40.7547953,Flushing,253,4,FALSE
+Taqueria Tlaxcalli,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starMexican$Parkchester,TRUE,Mexican,-73.85495,40.836265,Parkchester,601,4.5,TRUE
+Lakruwana,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starIndian$Stapleton,TRUE,Indian,-74.0753052,40.6257501,Stapleton,316,4.5,FALSE
+Dumpling Galaxy,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starChinese$Flushing,TRUE,Chinese,-73.9871797,40.729728,Flushing,333,3.5,TRUE
+Biang!,GOOD,INEXPENSIVE,NYT Critic’s Pick1 starChinese$Flushing,TRUE,Chinese,-73.9871797,40.729728,Flushing,253,4,FALSE
+Shake Shack,GOOD,INEXPENSIVE,"1 starFast Food, Hamburgers, Hot Dogs$Downtown Brooklyn",FALSE,"Fast Food, Hamburgers, Hot Dogs",-73.98818229999999,40.7414842,Downtown Brooklyn,348,4,TRUE
+Second Avenue Deli,GOOD,INEXPENSIVE,1 starDeli$Kips Bay,FALSE,Deli,-73.9791699,40.7451911,Kips Bay,1224,4,TRUE
+Katz's Delicatessen,GOOD,INEXPENSIVE,1 starDeli$Lower East Side,FALSE,Deli,-73.98742899999999,40.722233,Lower East Side,12194,4,TRUE
+Caleta 111 Cevicheria,GOOD,MODERATE,NYT Critic’s Pick1 starLatin American$$Richmond Hill,TRUE,Latin American,-73.8366454,40.6974924,Richmond Hill,20,4.5,FALSE
+Tsismis,GOOD,MODERATE,NYT Critic’s Pick1 starPhilippine$$Lower East Side,TRUE,Philippine,-73.9893269,40.7201117,Lower East Side,64,4,TRUE
+Red Hook Tavern,GOOD,MODERATE,"NYT Critic’s Pick1 starAmerican, Hamburgers$$Red Hook",TRUE,"American, Hamburgers",-74.0120649,40.6778606,Red Hook,55,4,FALSE
+Mission Ceviche Restaurant & Bar,GOOD,MODERATE,NYT Critic’s Pick1 starLatin American$$Upper East Side,TRUE,Latin American,-73.9578631,40.7691005,Upper East Side,138,4.5,TRUE
+Da Long Yi Hot Pot,GOOD,MODERATE,1 starChinese$$Chinatown,FALSE,Chinese,-73.99655969999999,40.716553,Chinatown,170,3.5,FALSE
+Van Da,GOOD,MODERATE,NYT Critic’s Pick1 starVietnamese$$East Village,TRUE,Vietnamese,-73.9831177,40.7233621,East Village,98,4,FALSE
+Madame Vo BBQ,GOOD,MODERATE,NYT Critic’s Pick1 starVietnamese$$East Village,TRUE,Vietnamese,-73.9831177,40.7233621,East Village,173,4,FALSE
+The Freakin Rican,GOOD,MODERATE,"NYT Critic’s Pick1 starCaribbean, Latin American$$Astoria",TRUE,"Caribbean, Latin American",-73.918312,40.755281,Astoria,180,4.5,TRUE
+Niche,GOOD,MODERATE,1 starJapanese$$Lower East Side,FALSE,Japanese,-73.98519879999999,40.71789220000001,Lower East Side,100,4,FALSE
+Violet,GOOD,MODERATE,"1 starItalian, Pizza$$East Village",FALSE,"Italian, Pizza",-73.99058819999999,40.7720223,East Village,68,3.5,FALSE
+Van Da,GOOD,MODERATE,NYT Critic’s Pick1 starVietnamese$$East Village,TRUE,Vietnamese,-73.9882713,40.7274166,East Village,98,4,FALSE
+Madame Vo BBQ,GOOD,MODERATE,NYT Critic’s Pick1 starVietnamese$$East Village,TRUE,Vietnamese,-73.9882713,40.7274166,East Village,173,4,FALSE
+Saint Julivert Fisherie,GOOD,MODERATE,1 starSeafood$$Cobble Hill,FALSE,Seafood,-73.99570899999999,40.6878828,Cobble Hill,37,4.5,FALSE
+Coco Pazzo Trattoria,GOOD,MODERATE,1 starItalian$$SoHo,FALSE,Italian,-74.00156539999999,40.7260026,SoHo,591,4,TRUE
+Yves,GOOD,MODERATE,1 starFrench$$TriBeCa,FALSE,French,-74.0099704,40.7202135,TriBeCa,71,4,TRUE
+Restaurant Nippon,GOOD,MODERATE,1 starJapanese$$Midtown,FALSE,Japanese,-73.97047169999999,40.7574462,Midtown,163,3.5,TRUE
+Wokuni,GOOD,MODERATE,"1 starJapanese, Seafood$$Midtown",FALSE,"Japanese, Seafood",-73.9774841,40.7492031,Midtown,221,4,FALSE
+Cervo’s,GOOD,MODERATE,"NYT Critic’s Pick1 starPortuguese, Seafood, Spanish$$Lower East Side",TRUE,"Portuguese, Seafood, Spanish",-73.99134459999999,40.7148624,Lower East Side,28,3.5,FALSE
+Don Peppe,GOOD,MODERATE,"NYT Critic’s Pick1 starAmerican, Italian$$South Ozone Park",TRUE,"American, Italian",-73.8216764,40.66896699999999,South Ozone Park,559,4,TRUE
+Pinch Chinese,GOOD,MODERATE,NYT Critic’s Pick1 starChinese$$SoHo,TRUE,Chinese,-74.001798,40.7264492,SoHo,346,3.5,TRUE
+Pig Bleecker,GOOD,MODERATE,NYT Critic’s Pick1 starAmerican$$Greenwich Village,TRUE,American,-73.9889136,40.6795588,Greenwich Village,562,4,FALSE
+Ichiran,GOOD,MODERATE,NYT Critic’s Pick1 starJapanese$$Bushwick,TRUE,Japanese,-73.9905691,40.7482996,Bushwick,817,4,FALSE
+Fish Cheeks,GOOD,MODERATE,NYT Critic’s Pick1 starThai$$NoHo,TRUE,Thai,-73.992682,40.72570899999999,NoHo,619,4.5,TRUE
+TsuruTonTan Udon Noodle Brasserie,GOOD,MODERATE,NYT Critic’s Pick1 starJapanese$$Union Square,TRUE,Japanese,-73.9913088,40.73689,Union Square,1849,4,TRUE
+Zadie's Oyster Room,GOOD,MODERATE,NYT Critic’s Pick1 starAmerican$$East Village,TRUE,American,-73.9826542,40.7298525,East Village,84,4.5,FALSE
+Ruffian Wine Bar & Chef’s Table,GOOD,MODERATE,"1 starFrench, Wine Bars$$East Village",FALSE,"French, Wine Bars",-73.9842175,40.7264355,East Village,415,4,TRUE
+Chaiwali,GOOD,MODERATE,1 starIndian$$Harlem,FALSE,Indian,-73.94584689999999,40.8067572,Harlem,194,3.5,TRUE
+Pizza Moto @ John Grace Bakery,GOOD,MODERATE,NYT Critic’s Pick1 starPizza$$Red Hook,TRUE,Pizza,-74.00079989999999,40.6746224,Red Hook,2176,4.5,FALSE
+Achilles Heel,GOOD,MODERATE,NYT Critic’s Pick1 starAmerican$$Greenpoint,TRUE,American,-73.9596202,40.7331806,Greenpoint,75,3.5,FALSE
+Telepan Local,GOOD,MODERATE,1 starAmerican$$TriBeCa,FALSE,American,-74.0103573,40.7176946,TriBeCa,405,4,FALSE
+Somtum Der,GOOD,MODERATE,NYT Critic’s Pick1 starThai$$East Village,TRUE,Thai,-73.984342,40.7252385,East Village,727,4,TRUE
+Whiskey Soda Lounge NY,GOOD,MODERATE,1 starThai$$Lower East Side,FALSE,Thai,-74.0011473,40.68779199999999,Lower East Side,257,4,FALSE
+MP Taverna Astoria,GOOD,MODERATE,NYT Critic’s Pick1 starGreek$$Steinway,TRUE,Greek,-73.873486,41.039838,Steinway,2265,4,TRUE
+Randazzo's Clam Bar,GOOD,MODERATE,"NYT Critic’s Pick1 starItalian, Seafood$$Sheepshead Bay",TRUE,"Italian, Seafood",-73.9476541,40.583881,Sheepshead Bay,608,3.5,FALSE
+Royal Seafood Restaurant,GOOD,MODERATE,NYT Critic’s Pick1 starChinese$$Chinatown,TRUE,Chinese,-73.9976916,40.7173032,Chinatown,300,3,FALSE
+456 Shanghai Cuisine,GOOD,MODERATE,NYT Critic’s Pick1 starChinese$$Chinatown,TRUE,Chinese,-73.9976916,40.7173032,Chinatown,550,3.5,TRUE
+Rosemary's,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-73.9998686,40.7347997,West Village,954,3.5,TRUE
+L'Artusi,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-73.9998686,40.7347997,West Village,1829,4.5,TRUE
+Gottino,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-73.9998686,40.7347997,West Village,298,4,FALSE
+Barbuto,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-73.9998686,40.7347997,West Village,888,4,FALSE
+Lupa,GOOD,MODERATE,1 starItalian$$Greenwich Village,FALSE,Italian,-74.0000589,40.7276574,Greenwich Village,1529,4,FALSE
+Coppelia,GOOD,MODERATE,"NYT Critic’s Pick1 starCaribbean, Latin, Latin American$$Chelsea",TRUE,"Caribbean, Latin, Latin American",-74,40.7388889,Chelsea,1347,4,TRUE
+Royal Seafood Restaurant,GOOD,MODERATE,NYT Critic’s Pick1 starChinese$$Chinatown,TRUE,Chinese,-73.998268,40.71624740000001,Chinatown,300,3,FALSE
+456 Shanghai Cuisine,GOOD,MODERATE,NYT Critic’s Pick1 starChinese$$Chinatown,TRUE,Chinese,-73.998268,40.71624740000001,Chinatown,550,3.5,TRUE
+Hunan Kitchen of Grand Sichuan,GOOD,MODERATE,NYT Critic’s Pick1 starChinese$$Flushing,TRUE,Chinese,-73.8273262,40.7540613,Flushing,235,4,TRUE
+The Fat Radish,GOOD,MODERATE,NYT Critic’s Pick1 starEnglish$$Lower East Side,TRUE,English,-73.9919444,40.7152778,Lower East Side,547,3.5,TRUE
+Anella,GOOD,MODERATE,"NYT Critic’s Pick1 starItalian, New American$$Greenpoint",TRUE,"Italian, New American",-73.9579327,40.7332398,Greenpoint,416,4,TRUE
+Ayada,GOOD,MODERATE,1 starThai$$Elmhurst,FALSE,Thai,-73.8876429,40.7434891,Elmhurst,1164,4,TRUE
+Takashi,GOOD,MODERATE,NYT Critic’s Pick1 starJapanese$$West Village,TRUE,Japanese,-74.0064215,40.7314551,West Village,978,4,FALSE
+Tanoreen,GOOD,MODERATE,NYT Critic’s Pick1 starMiddle Eastern$$Bay Ridge,TRUE,Middle Eastern,-74.0277778,40.6308333,Bay Ridge,832,4,TRUE
+Motorino,GOOD,MODERATE,"NYT Critic’s Pick1 starItalian, Pizza$$East Village",TRUE,"Italian, Pizza",-73.98382769999999,40.7303588,East Village,1075,3.5,TRUE
+Purple Yam,GOOD,MODERATE,"NYT Critic’s Pick1 starAsian, Philippine$$Ditmas",TRUE,"Asian, Philippine",-73.9656677,40.6404724,Ditmas,424,3.5,TRUE
+Madangsui,GOOD,MODERATE,NYT Critic’s Pick1 starKorean$$Koreatown,TRUE,Korean,-73.9856774,40.74989050000001,Koreatown,679,3.5,TRUE
+Le Relais de Venise L’Entrecôte,GOOD,MODERATE,NYT Critic’s Pick1 starFrench$$Midtown East,TRUE,French,-73.9717686,40.7576759,Midtown East,807,4,FALSE
+The Redhead,GOOD,MODERATE,"1 starAmerican, Southern$$East Village",FALSE,"American, Southern",-73.9834126,40.730901,East Village,54,4.5,FALSE
+Rye,GOOD,MODERATE,"1 starAmerican, Bistros, New American$$Williamsburg",FALSE,"American, Bistros, New American",-73.68373989999999,40.9806535,Williamsburg,459,3.5,TRUE
+Flex Mussels,GOOD,MODERATE,1 starSeafood$$Upper East Side,FALSE,Seafood,-73.99964899999999,40.7374687,Upper East Side,904,4,TRUE
+Ippudo,GOOD,MODERATE,NYT Critic’s Pick1 starJapanese$$East Village,TRUE,Japanese,-73.990287,40.730948,East Village,9964,4,TRUE
+Txikito,GOOD,MODERATE,"NYT Critic’s Pick1 starSpanish, Tapas$$Chelsea",TRUE,"Spanish, Tapas",-74.000365,40.747369,Chelsea,347,3.5,FALSE
+Macao Trading Company,GOOD,MODERATE,"NYT Critic’s Pick1 starAsian, Chinese, Portuguese$$TriBeCa",TRUE,"Asian, Chinese, Portuguese",-74.003939,40.719629,TriBeCa,751,4,TRUE
+Kefi,GOOD,MODERATE,1 starGreek$$Upper West Side,FALSE,Greek,-73.9794457,40.7833438,Upper West Side,152,4,TRUE
+Rosemary's,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.00514179999999,40.73384739999999,West Village,954,3.5,TRUE
+L'Artusi,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.00514179999999,40.73384739999999,West Village,1829,4.5,TRUE
+Gottino,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.00514179999999,40.73384739999999,West Village,298,4,FALSE
+Barbuto,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.00514179999999,40.73384739999999,West Village,888,4,FALSE
+Buttermilk Channel,GOOD,MODERATE,"NYT Critic’s Pick1 starAmerican, Bistros$$Carroll Gardens",TRUE,"American, Bistros",-74.0140286,40.6848252,Carroll Gardens,1885,4,FALSE
+Delicatessen,GOOD,MODERATE,"1 starAmerican, Diners$$Nolita",FALSE,"American, Diners",-73.98742899999999,40.722233,Nolita,12194,4,TRUE
+Rosemary's,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0004556,40.7357702,West Village,954,3.5,TRUE
+L'Artusi,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0004556,40.7357702,West Village,1829,4.5,TRUE
+Gottino,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0004556,40.7357702,West Village,298,4,FALSE
+Barbuto,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0004556,40.7357702,West Village,888,4,FALSE
+Terroir,GOOD,MODERATE,1 starItalian$$East Village,FALSE,Italian,-74.0099638,40.7189142,East Village,284,4,FALSE
+La Sirène,GOOD,MODERATE,NYT Critic’s Pick1 starFrench$$SoHo,TRUE,French,-74.005667,40.724543,SoHo,1600,4.5,FALSE
+Rosemary's,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0079639,40.7377611,West Village,954,3.5,TRUE
+L'Artusi,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0079639,40.7377611,West Village,1829,4.5,TRUE
+Gottino,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0079639,40.7377611,West Village,298,4,FALSE
+Barbuto,GOOD,MODERATE,1 starItalian$$West Village,FALSE,Italian,-74.0079639,40.7377611,West Village,888,4,FALSE
+Moim,GOOD,MODERATE,1 starKorean$$Park Slope,FALSE,Korean,-74.01001,40.830179,Park Slope,11,5,FALSE
+Ushiwakamaru,GOOD,MODERATE,"1 starJapanese, Sushi$$Greenwich Village",FALSE,"Japanese, Sushi",-74.0010357,40.7461264,Greenwich Village,171,4,TRUE
+Pera Mediterranean Brasserie,GOOD,MODERATE,1 starMediterranean$$Midtown South,FALSE,Mediterranean,-73.9794277,40.7523265,Midtown South,403,3.5,TRUE
+Cafe Cluny,GOOD,MODERATE,"NYT Critic’s Pick1 starAmerican, Bistros, French, New American$$West Village",TRUE,"American, Bistros, French, New American",-74.0039633,40.7374114,West Village,718,4,TRUE
+Sip Sak,GOOD,MODERATE,1 starTurkish$$Midtown East,FALSE,Turkish,-73.968535,40.754364,Midtown East,404,3.5,TRUE
+Chinatown Brasserie,GOOD,MODERATE,NYT Critic’s Pick1 starChinese$$NoHo,TRUE,Chinese,-73.9936571,40.7276352,NoHo,6153,4,TRUE
+Barbounia,GOOD,MODERATE,1 starMediterranean$$Flatiron,FALSE,Mediterranean,-73.988042,40.738352,Flatiron,1260,3.5,FALSE
+Pylos,GOOD,MODERATE,1 starGreek$$East Village,FALSE,Greek,-73.9840583,40.72617779999999,East Village,1117,4.5,TRUE
+Barbès,GOOD,MODERATE,"1 starFrench, Moroccan$$Midtown South",FALSE,"French, Moroccan",-73.9838889,40.6677778,Midtown South,172,4,FALSE
+Agave,GOOD,MODERATE,1 starSouthwestern$$West Village,FALSE,Southwestern,-73.9790084,40.7450743,West Village,1272,3.5,TRUE
+Gigino,GOOD,MODERATE,1 starItalian$$TriBeCa,FALSE,Italian,-74.0104673,40.71726470000001,TriBeCa,280,3.5,TRUE
+Kodama Japanese Restaurant,GOOD,MODERATE,"1 starJapanese, Sushi$$Clinton",FALSE,"Japanese, Sushi",-73.988742,40.759426,Clinton,452,3.5,TRUE
+Anton’s,GOOD,EXPENSIVE,1 starAmerican$$$,FALSE,American,-73.9904346,40.7443811,NA,2,4,FALSE
+Electric Lemon,GOOD,EXPENSIVE,1 starAmerican$$$Hudson Yards,FALSE,American,-74.0020571,40.7545517,Hudson Yards,85,4,FALSE
+Belle Harlem,GOOD,EXPENSIVE,NYT Critic’s Pick1 starAmerican$$$Harlem,TRUE,American,-73.94169959999999,40.81735949999999,Harlem,148,4.5,FALSE
+Oxalis,GOOD,EXPENSIVE,1 starAmerican$$$Crown Heights,FALSE,American,-73.9626279,40.6729083,Crown Heights,115,4.5,FALSE
+Manhatta,GOOD,EXPENSIVE,NYT Critic’s Pick1 starFrench$$$Financial District,TRUE,French,-73.9712488,40.7830603,Financial District,471,4.5,FALSE
+Wallsé,GOOD,EXPENSIVE,1 starAustrian$$$West Village,FALSE,Austrian,-74.008212,40.73541,West Village,276,4,FALSE
+Sen Sakana,GOOD,EXPENSIVE,"1 starJapanese, Latin American$$$Midtown",FALSE,"Japanese, Latin American",-73.981642,40.7551651,Midtown,283,4,TRUE
+Public Kitchen,GOOD,EXPENSIVE,"1 starAmerican, Chinese, Italian$$$Lower East Side",FALSE,"American, Chinese, Italian",-73.9920289,40.72307070000001,Lower East Side,211,3.5,FALSE
+The Odeon,GOOD,EXPENSIVE,NYT Critic’s Pick1 starAmerican$$$TriBeCa,TRUE,American,-74.007834,40.71697899999999,TriBeCa,640,4,TRUE
+Karasu,GOOD,EXPENSIVE,NYT Critic’s Pick1 starJapanese$$$Fort Greene,TRUE,Japanese,-73.9732409,40.6893892,Fort Greene,100,4,FALSE
+Sauvage,GOOD,EXPENSIVE,"NYT Critic’s Pick1 starAmerican, French$$$Greenpoint",TRUE,"American, French",-73.95187840000001,40.7235412,Greenpoint,218,3.5,FALSE
+Mimi,GOOD,EXPENSIVE,"NYT Critic’s Pick1 starAmerican, French$$$Greenwich Village",TRUE,"American, French",-74.00066120000001,40.7283483,Greenwich Village,138,4,FALSE
+Momofuku Nishi,GOOD,EXPENSIVE,"1 starAmerican, Italian, Korean$$$Chelsea",FALSE,"American, Italian, Korean",-73.9988194,40.7443534,Chelsea,596,4,FALSE
+The Spotted Pig,GOOD,EXPENSIVE,"1 starEnglish, Italian$$$West Village",FALSE,"English, Italian",-74.00666149999999,40.7355908,West Village,2921,3.5,FALSE
+L’Amico,GOOD,EXPENSIVE,1 starItalian$$$Chelsea,FALSE,Italian,-73.9899532,40.7471585,Chelsea,598,4,TRUE
+Noreetuh,GOOD,EXPENSIVE,NYT Critic’s Pick1 starAmerican$$$East Village,TRUE,American,-73.985237,40.72728499999999,East Village,432,4,TRUE
+Blue Smoke,GOOD,EXPENSIVE,NYT Critic’s Pick1 starBarbecue$$$Kips Bay,TRUE,Barbecue,-74.0153591,40.7146267,Kips Bay,633,3.5,TRUE
+Blenheim,GOOD,EXPENSIVE,1 starModernist$$$West Village,FALSE,Modernist,-74.4760088,42.4794352,West Village,217,3.5,TRUE
+Sammy's Roumanian Steakhouse,GOOD,EXPENSIVE,NYT Critic’s Pick1 starSteak Houses$$$Lower East Side,TRUE,Steak Houses,-73.9929105,40.7204779,Lower East Side,429,4,FALSE
+Claudette,GOOD,EXPENSIVE,1 starFrench$$$Greenwich Village,FALSE,French,-73.9959946,40.7330613,Greenwich Village,380,4,TRUE
+Barchetta,GOOD,EXPENSIVE,"1 starItalian, Seafood$$$Chelsea",FALSE,"Italian, Seafood",-74.0035374,40.7476268,Chelsea,264,3.5,TRUE
+The Shakespeare,GOOD,EXPENSIVE,NYT Critic’s Pick1 starEnglish$$$,TRUE,English,-73.9802584,40.7504717,NA,363,4,TRUE
+The Pines,GOOD,EXPENSIVE,NYT Critic’s Pick1 starAmerican$$$Gowanus,TRUE,American,-74.2701836,42.04742479999999,Gowanus,532,3.5,TRUE
+Lafayette,GOOD,EXPENSIVE,NYT Critic’s Pick1 starFrench$$$NoHo,TRUE,French,-73.9970929,40.72229249999999,NoHo,896,3.5,FALSE
+Chez Sardine,GOOD,EXPENSIVE,"1 starAsian, Japanese$$$West Village",FALSE,"Asian, Japanese",-74.00284789999999,40.7343755,West Village,231,4,FALSE
+The Marrow,GOOD,EXPENSIVE,"1 starGerman, Italian$$$West Village",FALSE,"German, Italian",-74.0007016,40.7299881,West Village,2190,4,FALSE
+El Toro Blanco,GOOD,EXPENSIVE,NYT Critic’s Pick1 starMexican$$$West Village,TRUE,Mexican,-74.00277899999999,40.72896009999999,West Village,389,3.5,TRUE
+Empellón Taqueria,GOOD,EXPENSIVE,NYT Critic’s Pick1 starMexican$$$West Village,TRUE,Mexican,-74.00277899999999,40.72896009999999,West Village,699,3.5,TRUE
+Reynard,GOOD,EXPENSIVE,NYT Critic’s Pick1 starAmerican$$$Williamsburg,TRUE,American,-73.95807049999999,40.7220243,Williamsburg,270,3.5,FALSE
+Almayass,GOOD,EXPENSIVE,1 starMiddle Eastern$$$Flatiron,FALSE,Middle Eastern,-73.98902199999999,40.73936399999999,Flatiron,428,4,TRUE
+Kutsher's Tribeca,GOOD,EXPENSIVE,"NYT Critic’s Pick1 starDeli, Eastern European$$$TriBeCa",TRUE,"Deli, Eastern European",-74.0096238,40.7195868,TriBeCa,NA,NA,FALSE
+Saxon & Parole,GOOD,EXPENSIVE,1 starAmerican$$$NoHo,FALSE,American,-73.9925391,40.7251783,NoHo,777,4,FALSE
+St. Anselm,GOOD,EXPENSIVE,"NYT Critic’s Pick1 starAmerican, Steak Houses$$$Williamsburg",TRUE,"American, Steak Houses",-73.9560583,40.7142528,Williamsburg,817,4,FALSE
+Danji,GOOD,EXPENSIVE,NYT Critic’s Pick1 starKorean$$$Clinton,TRUE,Korean,-73.986859,40.764031,Clinton,1008,4,FALSE
+El Toro Blanco,GOOD,EXPENSIVE,NYT Critic’s Pick1 starMexican$$$West Village,TRUE,Mexican,-74.00306830000001,40.73414200000001,West Village,389,3.5,TRUE
+Empellón Taqueria,GOOD,EXPENSIVE,NYT Critic’s Pick1 starMexican$$$West Village,TRUE,Mexican,-74.00306830000001,40.73414200000001,West Village,699,3.5,TRUE
+The National Bar and Dining Rooms,GOOD,EXPENSIVE,NYT Critic’s Pick1 starAmerican$$$Midtown East,TRUE,American,-73.97200099999999,40.7566054,Midtown East,639,3,FALSE
+Colonie,GOOD,EXPENSIVE,NYT Critic’s Pick1 starAmerican$$$Brooklyn Heights,TRUE,American,-73.77132,42.7236699,Brooklyn Heights,573,4,FALSE
+Tulsi,GOOD,EXPENSIVE,NYT Critic’s Pick1 starIndian$$$Midtown East,TRUE,Indian,-73.9893848,40.7392899,Midtown East,217,4.5,TRUE
+Osteria Morini,GOOD,EXPENSIVE,"1 starItalian, Seafood$$$SoHo",FALSE,"Italian, Seafood",-73.9977806,40.7220167,SoHo,1163,4,FALSE
+Toloache,GOOD,EXPENSIVE,NYT Critic’s Pick1 starMexican$$$Midtown,TRUE,Mexican,-73.98561939999999,40.7622222,Midtown,1967,4,TRUE
+The Lion,GOOD,EXPENSIVE,1 starAmerican$$$Greenwich Village,FALSE,American,-73.9866105,40.7462548,Greenwich Village,322,3.5,FALSE
+Balaboosta,GOOD,EXPENSIVE,NYT Critic’s Pick1 starMediterranean$$$Nolita,TRUE,Mediterranean,-74.00588929999999,40.7376733,Nolita,58,4,TRUE
+The Breslin Bar and Dining Room,GOOD,EXPENSIVE,"1 starAmerican, English$$$NoMad",FALSE,"American, English",-73.988089,40.745568,NoMad,1579,3.5,FALSE
+Spice Market,GOOD,EXPENSIVE,1 starAsian$$$West Village,FALSE,Asian,-74.0060769,40.7405257,West Village,3965,4,TRUE
+Bobo,GOOD,EXPENSIVE,"1 starAmerican, New American$$$West Village",FALSE,"American, New American",-74.0026304,40.7344552,West Village,538,4,TRUE
+Kanoyama,GOOD,EXPENSIVE,"1 starJapanese, Sushi$$$East Village",FALSE,"Japanese, Sushi",-73.98653,40.730587,East Village,655,4,TRUE
+Jewel Bako,GOOD,EXPENSIVE,"1 starJapanese, Sushi$$$East Village",FALSE,"Japanese, Sushi",-73.98653,40.730587,East Village,542,3.5,FALSE
+Sushi Azabu,GOOD,EXPENSIVE,"1 starJapanese, Sushi$$$TriBeCa",FALSE,"Japanese, Sushi",-74.0098944,40.7224361,TriBeCa,431,4,TRUE
+Socarrat Paella Bar,GOOD,EXPENSIVE,1 starSpanish$$$Chelsea,FALSE,Spanish,-73.9995153,40.7427195,Chelsea,487,4,TRUE
+James,GOOD,EXPENSIVE,"1 starAmerican, European$$$Prospect Heights",FALSE,"American, European",-74.00469939999999,40.7227361,Prospect Heights,449,3.5,FALSE
+Commerce,GOOD,EXPENSIVE,1 starNew American$$$West Village,FALSE,New American,-74.0049389,40.7315597,West Village,5,3.5,FALSE
+5 Ninth,GOOD,EXPENSIVE,1 starNew American$$$West Village,FALSE,New American,-74.0049389,40.7315597,West Village,4,4,FALSE
+Ilili,GOOD,EXPENSIVE,1 starMiddle Eastern$$$NoMad,FALSE,Middle Eastern,-73.98773609999999,40.74435829999999,NoMad,2383,4,TRUE
+Gemma,GOOD,EXPENSIVE,NYT Critic’s Pick1 starItalian$$$East Village,TRUE,Italian,-73.99166129999999,40.7261666,East Village,658,3.5,FALSE
+Rayuela,GOOD,EXPENSIVE,1 starLatin American$$$Lower East Side,FALSE,Latin American,-73.9897397,40.7212711,Lower East Side,2383,4,TRUE
+Morandi,GOOD,EXPENSIVE,1 starItalian$$$West Village,FALSE,Italian,-74.00142819999999,40.73531699999999,West Village,692,3.5,TRUE
+The Waverly Inn,GOOD,EXPENSIVE,NYT Critic’s Pick1 starNew American$$$West Village,TRUE,New American,-74.0022445,40.7369442,West Village,437,3.5,FALSE
+Harry's Cafe and Steak,GOOD,EXPENSIVE,1 starSteak Houses$$$Financial District,FALSE,Steak Houses,-74.0097371,40.7046763,Financial District,688,4,TRUE
+Kanoyama,GOOD,EXPENSIVE,"1 starJapanese, Sushi$$$East Village",FALSE,"Japanese, Sushi",-73.9893361,40.7270417,East Village,655,4,TRUE
+Jewel Bako,GOOD,EXPENSIVE,"1 starJapanese, Sushi$$$East Village",FALSE,"Japanese, Sushi",-73.9893361,40.7270417,East Village,542,3.5,FALSE
+Crema,GOOD,EXPENSIVE,1 starMexican$$$Chelsea,FALSE,Mexican,-73.945775,40.723104,Chelsea,79,5,TRUE
+Cafe Luxembourg,GOOD,EXPENSIVE,1 starBistros$$$Upper West Side,FALSE,Bistros,-73.9831099,40.777425,Upper West Side,487,4,FALSE
+Aburiya Kinnosuke,GOOD,EXPENSIVE,1 starJapanese$$$Midtown East,FALSE,Japanese,-73.9722768,40.7525509,Midtown East,750,4,FALSE
+Ben & Jack's Steak House,GOOD,EXPENSIVE,1 starSteak Houses$$$Midtown East,FALSE,Steak Houses,-73.97235599999999,40.75183699999999,Midtown East,297,4,FALSE
+La Esquina,GOOD,EXPENSIVE,1 starMexican$$$SoHo,FALSE,Mexican,-73.9975597,40.7213805,SoHo,2030,3.5,TRUE
+Duane Park,GOOD,EXPENSIVE,1 starNew American$$$NoHo,FALSE,New American,-73.9927056,40.7249254,NoHo,476,4.5,FALSE
+Lure Fishbar,GOOD,EXPENSIVE,1 starSeafood$$$SoHo,FALSE,Seafood,-73.9983333,40.7247222,SoHo,1652,4,TRUE
+La Masseria,GOOD,EXPENSIVE,1 starItalian$$$Times Square Theatre District,FALSE,Italian,-73.9863,40.76088499999999,Times Square Theatre District,597,4,FALSE
+Casa la Femme,GOOD,EXPENSIVE,1 starMiddle Eastern$$$West Village,FALSE,Middle Eastern,-74.0081208,40.7339636,West Village,605,3.5,TRUE
+En Japanese Brasserie,GOOD,EXPENSIVE,1 starJapanese$$$West Village,FALSE,Japanese,-74.00724720000001,40.7305611,West Village,1247,4,TRUE
+Indochine,GOOD,EXPENSIVE,"1 starFrench, Vietnamese$$$East Village",FALSE,"French, Vietnamese",-73.9924719,40.7292591,East Village,384,3.5,FALSE
+Convivium Osteria,GOOD,EXPENSIVE,"1 starItalian, Portuguese, Spanish$$$Park Slope North",FALSE,"Italian, Portuguese, Spanish",-73.9775629,40.6810713,Park Slope North,480,4,TRUE
+Commerce,GOOD,EXPENSIVE,1 starNew American$$$West Village,FALSE,New American,-74.006692,40.739586,West Village,5,3.5,FALSE
+5 Ninth,GOOD,EXPENSIVE,1 starNew American$$$West Village,FALSE,New American,-74.006692,40.739586,West Village,4,4,FALSE
+Ici,GOOD,EXPENSIVE,1 starFrench$$$Fort Greene,FALSE,French,-74.002904,40.718919,Fort Greene,6,3.5,FALSE
+Azalea,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9848901,40.7623127,Midtown,280,4,TRUE
+Osteria del Circo,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9848901,40.7623127,Midtown,2180,4.5,FALSE
+Trattoria dell'Arte,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9848901,40.7623127,Midtown,1026,4,TRUE
+Teodora,GOOD,EXPENSIVE,1 starItalian$$$Midtown East,FALSE,Italian,-73.9686428,40.7609904,Midtown East,2,5,FALSE
+Azalea,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9792815,40.7630948,Midtown,280,4,TRUE
+Osteria del Circo,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9792815,40.7630948,Midtown,2180,4.5,FALSE
+Trattoria dell'Arte,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9792815,40.7630948,Midtown,1026,4,TRUE
+Roc Restaurant,GOOD,EXPENSIVE,"1 starItalian, Seafood$$$TriBeCa",FALSE,"Italian, Seafood",-73.9939519,40.7456231,TriBeCa,67,4,TRUE
+Avra,GOOD,EXPENSIVE,1 starGreek$$$Midtown East,FALSE,Greek,-73.9717309,40.7644142,Midtown East,861,4,FALSE
+Mr. K's,GOOD,EXPENSIVE,1 starChinese$$$Midtown East,FALSE,Chinese,-73.97216999999999,40.757079,Midtown East,6,5,FALSE
+Il Cantinori,GOOD,EXPENSIVE,1 starItalian$$$Greenwich Village,FALSE,Italian,-73.9931233,40.7323332,Greenwich Village,250,4,FALSE
+Il Giglio,GOOD,EXPENSIVE,1 starItalian$$$TriBeCa,FALSE,Italian,-74.01046769999999,40.7152143,TriBeCa,119,4,FALSE
+Redeye Grill,GOOD,EXPENSIVE,1 starNew American$$$Midtown,FALSE,New American,-73.98068359999999,40.7651937,Midtown,505,3.5,TRUE
+Cipriani Downtown,GOOD,EXPENSIVE,1 starItalian$$$SoHo,FALSE,Italian,-74.00291240000001,40.7236954,SoHo,308,3,TRUE
+Savore,GOOD,EXPENSIVE,1 starItalian$$$SoHo,FALSE,Italian,-74.00291240000001,40.7236954,SoHo,3,4,TRUE
+Onieal's Soho,GOOD,EXPENSIVE,1 starNew American$$$SoHo,FALSE,New American,-73.9978939,40.7196972,SoHo,329,4,TRUE
+L'Absinthe,GOOD,EXPENSIVE,1 starFrench$$$Upper East Side,FALSE,French,-73.9613143,40.7659646,Upper East Side,NA,NA,FALSE
+Cipriani Downtown,GOOD,EXPENSIVE,1 starItalian$$$SoHo,FALSE,Italian,-74.0033108,40.7250957,SoHo,308,3,TRUE
+Savore,GOOD,EXPENSIVE,1 starItalian$$$SoHo,FALSE,Italian,-74.0033108,40.7250957,SoHo,3,4,TRUE
+Cafe Un Deux Trois,GOOD,EXPENSIVE,1 starFrench$$$Times Square Theatre District,FALSE,French,-73.9841136,40.7567275,Times Square Theatre District,592,3.5,FALSE
+Azalea,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9805358,40.7654454,Midtown,280,4,TRUE
+Osteria del Circo,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9805358,40.7654454,Midtown,2180,4.5,FALSE
+Trattoria dell'Arte,GOOD,EXPENSIVE,1 starItalian$$$Midtown,FALSE,Italian,-73.9805358,40.7654454,Midtown,1026,4,TRUE
+Victor's Cafe,GOOD,EXPENSIVE,1 starLatin American$$$Midtown,FALSE,Latin American,-73.9841351,40.7628851,Midtown,1480,4,TRUE
+Ambassador Grill & Lounge,GOOD,EXPENSIVE,1 starNew American$$$Midtown East,FALSE,New American,-73.96929399999999,40.7503685,Midtown East,11,3,FALSE
+La Boite en Bois,GOOD,EXPENSIVE,1 starFrench$$$Upper West Side,FALSE,French,-73.9803116,40.7748008,Upper West Side,217,3.5,TRUE
+The Four Seasons Restaurant,GOOD,VERY_EXPENSIVE,1 starSeafood$$$$Midtown,FALSE,Seafood,-73.97582799999999,40.756969,Midtown,305,4,FALSE
+Nobu Downtown,GOOD,VERY_EXPENSIVE,"1 starJapanese, Sushi$$$$Financial District",FALSE,"Japanese, Sushi",-74.009845,40.71091,Financial District,394,3.5,FALSE
+Nobu 57,GOOD,VERY_EXPENSIVE,"1 starJapanese, Sushi$$$$Midtown",FALSE,"Japanese, Sushi",-73.9764549,40.76357429999999,Midtown,1198,4,FALSE
+The Lobster Club,GOOD,VERY_EXPENSIVE,1 starJapanese$$$$Midtown East,FALSE,Japanese,-73.9719473,40.7585383,Midtown East,95,4,FALSE
+Italienne,GOOD,VERY_EXPENSIVE,"1 starFrench, Italian$$$$Flatiron",FALSE,"French, Italian",-73.99044599999999,40.743029,Flatiron,143,4.5,FALSE
+Augustine,GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick1 starAmerican, French$$$$Financial District",TRUE,"American, French",-74.00663639999999,40.711245,Financial District,246,4,FALSE
+Cut by Wolfgang Puck,GOOD,VERY_EXPENSIVE,"1 starAmerican, Steak Houses$$$$Financial District",FALSE,"American, Steak Houses",-74.0093654,40.7129004,Financial District,70,3.5,FALSE
+Sadelle’s,GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick1 starEastern European, Russian$$$$SoHo",TRUE,"Eastern European, Russian",-74.000131,40.726232,SoHo,626,3.5,FALSE
+Sessanta,GOOD,VERY_EXPENSIVE,1 starItalian$$$$SoHo,FALSE,Italian,-73.9886583,40.7719173,SoHo,14,3.5,FALSE
+Charlie Bird,GOOD,VERY_EXPENSIVE,1 starItalian$$$$SoHo,FALSE,Italian,-73.9886583,40.7719173,SoHo,459,3.5,FALSE
+Vaucluse,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.9676044,40.7650225,Upper East Side,243,4,TRUE
+Carlyle Restaurant,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.9676044,40.7650225,Upper East Side,78,4,FALSE
+Arabelle,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.9676044,40.7650225,Upper East Side,25,3,FALSE
+O Ya,GOOD,VERY_EXPENSIVE,"1 starAmerican, Japanese$$$$Kips Bay",FALSE,"American, Japanese",-73.9832344,40.74262,Kips Bay,250,4.5,FALSE
+Minton’s,GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick1 starAmerican, Southern$$$$Harlem",TRUE,"American, Southern",-73.95232299999999,40.804596,Harlem,208,3.5,FALSE
+Estiatorio Milos,GOOD,VERY_EXPENSIVE,1 starGreek$$$$Midtown,FALSE,Greek,-73.9790278,40.7635461,Midtown,895,4,TRUE
+Limani,GOOD,VERY_EXPENSIVE,"1 starGreek, Seafood$$$$Midtown",FALSE,"Greek, Seafood",-73.77813909999999,40.6413111,Midtown,438,4,FALSE
+The Peacock,GOOD,VERY_EXPENSIVE,NYT Critic’s Pick1 starEnglish$$$$Midtown South,TRUE,English,-73.9802584,40.7504717,Midtown South,117,3.5,FALSE
+M. Wells Steakhouse,GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick1 starAmerican, French$$$$Long Island City",TRUE,"American, French",-73.942296,40.7484929,Long Island City,407,3.5,FALSE
+Hirohisa,GOOD,VERY_EXPENSIVE,1 starJapanese$$$$SoHo,FALSE,Japanese,-74.0030278,40.7245444,SoHo,155,4.5,FALSE
+Sessanta,GOOD,VERY_EXPENSIVE,1 starItalian$$$$SoHo,FALSE,Italian,-74.0028447,40.7278191,SoHo,14,3.5,FALSE
+Charlie Bird,GOOD,VERY_EXPENSIVE,1 starItalian$$$$SoHo,FALSE,Italian,-74.0028447,40.7278191,SoHo,459,3.5,FALSE
+Kurumazushi,GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick1 starJapanese, Sushi$$$$Midtown East",TRUE,"Japanese, Sushi",-73.977761,40.756563,Midtown East,226,4,TRUE
+Quality Italian,GOOD,VERY_EXPENSIVE,"1 starItalian, Steak Houses$$$$Midtown",FALSE,"Italian, Steak Houses",-73.9768271,40.7645133,Midtown,1069,4,TRUE
+Khe-Yo,GOOD,VERY_EXPENSIVE,1 starAsian$$$$TriBeCa,FALSE,Asian,-74.00858699999999,40.716906,TriBeCa,748,4,TRUE
+Caravaggio,GOOD,VERY_EXPENSIVE,1 starItalian$$$$Upper East Side,FALSE,Italian,-73.9647723,40.773303,Upper East Side,85,3.5,FALSE
+Hakkasan New York,GOOD,VERY_EXPENSIVE,"1 starChinese, Dim Sum$$$$Clinton",FALSE,"Chinese, Dim Sum",-73.9900002,40.7584309,Clinton,918,3.5,FALSE
+Alison Eighteen,GOOD,VERY_EXPENSIVE,1 starAmerican$$$$Flatiron,FALSE,American,-73.9928086,40.7391553,Flatiron,NA,NA,FALSE
+Palm Too,GOOD,VERY_EXPENSIVE,NYT Critic’s Pick1 starSteak Houses$$$$Midtown East,TRUE,Steak Houses,-73.9706661,40.751462,Midtown East,227,3.5,TRUE
+The Lambs Club,GOOD,VERY_EXPENSIVE,1 starAmerican$$$$Times Square Theatre District,FALSE,American,-73.984641,40.756511,Times Square Theatre District,591,3.5,FALSE
+Aureole,GOOD,VERY_EXPENSIVE,1 starNew American$$$$Times Square Theatre District,FALSE,New American,-73.985258,40.755633,Times Square Theatre District,900,4,FALSE
+Fishtail by David Burke,GOOD,VERY_EXPENSIVE,"1 starAmerican, Seafood$$$$Upper East Side",FALSE,"American, Seafood",-73.96708300000002,40.764442,Upper East Side,195,4,TRUE
+Sasabune,GOOD,VERY_EXPENSIVE,"NYT Critic’s Pick1 starJapanese, Sushi$$$$Upper East Side",TRUE,"Japanese, Sushi",-73.9550312,40.7684175,Upper East Side,389,4,FALSE
+The  Russian Tea Room,GOOD,VERY_EXPENSIVE,1 starRussian$$$$Midtown,FALSE,Russian,-73.9794271,40.7648698,Midtown,1002,3,TRUE
+Porter House New York,GOOD,VERY_EXPENSIVE,NYT Critic’s Pick1 starSteak Houses$$$$Upper West Side,TRUE,Steak Houses,-73.98263,40.768882,Upper West Side,647,3.5,FALSE
+Morimoto,GOOD,VERY_EXPENSIVE,1 starJapanese$$$$Chelsea,FALSE,Japanese,-74.0072503,40.7430827,Chelsea,3056,4,TRUE
+Asiate,GOOD,VERY_EXPENSIVE,"1 starAsian, French$$$$Upper West Side",FALSE,"Asian, French",-73.9830036,40.7688396,Upper West Side,559,4,FALSE
+MarkJoseph Steakhouse,GOOD,VERY_EXPENSIVE,1 starSteak Houses$$$$Financial District,FALSE,Steak Houses,-74.00152,40.70837,Financial District,407,4,FALSE
+Patroon,GOOD,VERY_EXPENSIVE,"1 starNew American, Steak Houses$$$$Midtown East",FALSE,"New American, Steak Houses",-73.9734289,40.7534883,Midtown East,225,4,FALSE
+Butter,GOOD,VERY_EXPENSIVE,1 starNew American$$$$East Village,FALSE,New American,-73.9841651,40.7264649,East Village,1011,3.5,FALSE
+Vaucluse,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.96315589999999,40.774416,Upper East Side,243,4,TRUE
+Carlyle Restaurant,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.96315589999999,40.774416,Upper East Side,78,4,FALSE
+Arabelle,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.96315589999999,40.774416,Upper East Side,25,3,FALSE
+Vaucluse,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.9683848,40.76663689999999,Upper East Side,243,4,TRUE
+Carlyle Restaurant,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.9683848,40.76663689999999,Upper East Side,78,4,FALSE
+Arabelle,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Upper East Side,FALSE,French,-73.9683848,40.76663689999999,Upper East Side,25,3,FALSE
+Brasserie 8 1/2,GOOD,VERY_EXPENSIVE,1 starFrench$$$$Midtown,FALSE,French,-73.97502709999999,40.7637614,Midtown,453,3.5,FALSE
+Scalini Fedeli,GOOD,VERY_EXPENSIVE,1 starItalian$$$$TriBeCa,FALSE,Italian,-74.00944439999999,40.7175,TriBeCa,311,4.5,FALSE
+Sparks Steak House,GOOD,VERY_EXPENSIVE,1 starSteak Houses$$$$Midtown East,FALSE,Steak Houses,-73.9720665,40.7529737,Midtown East,927,3.5,FALSE
+Maloney & Porcelli,GOOD,VERY_EXPENSIVE,"1 starSeafood, Steak Houses$$$$Midtown East",FALSE,"Seafood, Steak Houses",-73.974805,40.757712,Midtown East,470,4,TRUE
