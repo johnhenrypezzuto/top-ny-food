@@ -7,6 +7,6 @@ There are some duplicates / mistakes in the repo particularly in the coordinate 
 
 ## Get the data here
 ```
-nytimes <- readr::read_csv('https://raw.githubusercontent.com/**.csv')
-the_infatuation <- readr::read_csv('https://raw.githubusercontent.com/**.csv')
+nytimes <- readr::read_csv('https://raw.githubusercontent.com/johnhenrypezzuto/top-ny-food/master/nytimes-restaurant-reviews.csv')
+the_infatuation <- readr::read_csv('https://raw.githubusercontent.com/johnhenrypezzuto/top-ny-food/master/the-infatuation-restaurants.csv')
 ```
